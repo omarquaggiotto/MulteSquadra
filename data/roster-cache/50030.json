@@ -1,0 +1,225 @@
+{
+  "teamId": 50030,
+  "teamName": "Sovizzo Calcio",
+  "checkedAt": "2026-09-30T13:44:35.4905644Z",
+  "authenticatedVia": "google-browser",
+  "members": [
+    {
+      "id": 7152278,
+      "name": "Angeleri Giovanni",
+      "kind": "player",
+      "role": "CEN",
+      "birthDate": "2006-02-17",
+      "photoUrl": "https://b2-content.tuttocampo.it/Players/Original/7152278.png?v=2&class=p40",
+      "profileUrl": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Giocatore/Scheda/7152278/Scheda"
+    },
+    {
+      "id": 7604207,
+      "name": "Bari Tommaso",
+      "kind": "player",
+      "role": "ATT",
+      "birthDate": "2003-10-09",
+      "photoUrl": "https://b2-content.tuttocampo.it/Players/Original/7604207.png?v=2&class=p40",
+      "profileUrl": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Giocatore/Scheda/7604207/Scheda"
+    },
+    {
+      "id": 7687833,
+      "name": "Basile Riccardo",
+      "kind": "player",
+      "role": "CEN",
+      "birthDate": "2001-11-14",
+      "photoUrl": "https://b2-content.tuttocampo.it/Players/Original/7687833.png?v=2&class=p40",
+      "profileUrl": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Giocatore/Scheda/7687833/Scheda"
+    },
+    {
+      "id": 8441344,
+      "name": "Coradin Mattia",
+      "kind": "player",
+      "role": "DIF",
+      "birthDate": "2007-03-13",
+      "photoUrl": "https://b2-content.tuttocampo.it/Players/Original/8441344.png?v=3&class=p40",
+      "profileUrl": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Giocatore/Scheda/8441344/Scheda"
+    },
+    {
+      "id": 8418747,
+      "name": "Costanzo Pietro",
+      "kind": "player",
+      "role": "ATT",
+      "birthDate": "2002-05-31",
+      "photoUrl": "https://b2-content.tuttocampo.it/Players/Original/8418747.png?v=4&class=p40",
+      "profileUrl": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Giocatore/Scheda/8418747/Scheda"
+    },
+    {
+      "id": 9318209,
+      "name": "Dalla Valle Matteo",
+      "kind": "player",
+      "role": "CEN",
+      "birthDate": "2007-01-17",
+      "photoUrl": "https://b2-content.tuttocampo.it/Players/Original/9318209.png?v=2&class=p40",
+      "profileUrl": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Giocatore/Scheda/9318209/Scheda"
+    },
+    {
+      "id": 8685794,
+      "name": "De Chiara Francesco",
+      "kind": "player",
+      "role": "CEN",
+      "birthDate": "2007-10-14",
+      "photoUrl": "https://b2-content.tuttocampo.it/default_player_photo_small.png",
+      "profileUrl": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Giocatore/Scheda/8685794/Scheda"
+    },
+    {
+      "id": 8829539,
+      "name": "De Peron Matteo",
+      "kind": "player",
+      "role": "CEN",
+      "birthDate": "2003-05-28",
+      "photoUrl": "https://b2-content.tuttocampo.it/Players/Original/8829539.png?v=2&class=p40",
+      "profileUrl": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Giocatore/Scheda/8829539/Scheda"
+    },
+    {
+      "id": 8506331,
+      "name": "Faccini Riccardo",
+      "kind": "player",
+      "role": "DIF",
+      "birthDate": "2003-09-17",
+      "photoUrl": "https://b2-content.tuttocampo.it/Players/Original/8506331.png?v=2&class=p40",
+      "profileUrl": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Giocatore/Scheda/8506331/Scheda"
+    },
+    {
+      "id": 7332496,
+      "name": "Farinon Filippo",
+      "kind": "player",
+      "role": "DIF",
+      "birthDate": "1998-02-23",
+      "photoUrl": "https://b2-content.tuttocampo.it/Players/Original/7332496.png?v=7&class=p40",
+      "profileUrl": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Giocatore/Scheda/7332496/Scheda"
+    },
+    {
+      "id": 4710962,
+      "name": "Fracca Alessio",
+      "kind": "player",
+      "role": "POR",
+      "birthDate": "2002-03-16",
+      "photoUrl": "https://b2-content.tuttocampo.it/Players/Original/4710962.png?v=2&class=p40",
+      "profileUrl": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Giocatore/Scheda/4710962/Scheda"
+    },
+    {
+      "id": 8644601,
+      "name": "Gardini Daniele",
+      "kind": "player",
+      "role": "CEN",
+      "birthDate": "2005-01-01",
+      "photoUrl": "https://b2-content.tuttocampo.it/Players/Original/8644601.png?v=3&class=p40",
+      "profileUrl": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Giocatore/Scheda/8644601/Scheda"
+    },
+    {
+      "id": 9914889,
+      "name": "Marzotto Jacopo",
+      "kind": "player",
+      "role": "CEN",
+      "birthDate": "2006-03-23",
+      "photoUrl": "https://b2-content.tuttocampo.it/Players/Original/9914889.png?v=2&class=p40",
+      "profileUrl": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Giocatore/Scheda/9914889/Scheda"
+    },
+    {
+      "id": 9252020,
+      "name": "Miglioranza Nicolò",
+      "kind": "player",
+      "role": "CEN",
+      "birthDate": "2006-03-25",
+      "photoUrl": "https://b2-content.tuttocampo.it/Players/Original/9252020.png?v=4&class=p40",
+      "profileUrl": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Giocatore/Scheda/9252020/Scheda"
+    },
+    {
+      "id": 8493529,
+      "name": "Muca Krisi",
+      "kind": "player",
+      "role": "ATT",
+      "birthDate": "2003-09-01",
+      "photoUrl": "https://b2-content.tuttocampo.it/Players/Original/8493529.png?v=1&class=p40",
+      "profileUrl": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Giocatore/Scheda/8493529/Scheda"
+    },
+    {
+      "id": 9267415,
+      "name": "Pajola Matteo",
+      "kind": "player",
+      "role": "DIF",
+      "birthDate": "2007-02-03",
+      "photoUrl": "https://b2-content.tuttocampo.it/default_player_photo_small.png",
+      "profileUrl": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Giocatore/Scheda/9267415/Scheda"
+    },
+    {
+      "id": 7908252,
+      "name": "Pepe Mirco",
+      "kind": "player",
+      "role": "DIF",
+      "birthDate": "2003-01-12",
+      "photoUrl": "https://b2-content.tuttocampo.it/Players/Original/7908252.png?v=4&class=p40",
+      "profileUrl": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Giocatore/Scheda/7908252/Scheda"
+    },
+    {
+      "id": 7966226,
+      "name": "Rigotto Riccardo",
+      "kind": "player",
+      "role": "DIF",
+      "birthDate": "1994-03-29",
+      "photoUrl": "https://b2-content.tuttocampo.it/Players/Original/7966226.png?v=2&class=p40",
+      "profileUrl": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Giocatore/Scheda/7966226/Scheda"
+    },
+    {
+      "id": 7872860,
+      "name": "Roviaro Alessio",
+      "kind": "player",
+      "role": "CEN",
+      "birthDate": "1999-10-18",
+      "photoUrl": "https://b2-content.tuttocampo.it/Players/Original/7872860.png?v=4&class=p40",
+      "profileUrl": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Giocatore/Scheda/7872860/Scheda"
+    },
+    {
+      "id": 7973102,
+      "name": "Tonello Gabriel",
+      "kind": "player",
+      "role": "CEN",
+      "birthDate": "2005-06-08",
+      "photoUrl": "https://b2-content.tuttocampo.it/Players/Original/7973102.png?v=3&class=p40",
+      "profileUrl": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Giocatore/Scheda/7973102/Scheda"
+    },
+    {
+      "id": 8682967,
+      "name": "Tonin Alberto",
+      "kind": "player",
+      "role": "DIF",
+      "birthDate": "1999-01-01",
+      "photoUrl": "https://b2-content.tuttocampo.it/Players/Original/8682967.png?v=2&class=p40",
+      "profileUrl": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Giocatore/Scheda/8682967/Scheda"
+    },
+    {
+      "id": 8603968,
+      "name": "Trivella Diego",
+      "kind": "player",
+      "role": "ATT",
+      "birthDate": "2005-01-25",
+      "photoUrl": "https://b2-content.tuttocampo.it/Players/Original/8603968.png?v=1&class=p40",
+      "profileUrl": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Giocatore/Scheda/8603968/Scheda"
+    },
+    {
+      "id": 7548957,
+      "name": "Zanotto Alessio",
+      "kind": "player",
+      "role": "CEN",
+      "birthDate": "1998-01-15",
+      "photoUrl": "https://b2-content.tuttocampo.it/Players/Original/7548957.png?v=3&class=p40",
+      "profileUrl": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Giocatore/Scheda/7548957/Scheda"
+    },
+    {
+      "id": 7791629,
+      "name": "Zenere Federico",
+      "kind": "player",
+      "role": "POR",
+      "birthDate": "2002-01-25",
+      "photoUrl": "https://b2-content.tuttocampo.it/Players/Original/7791629.png?v=3&class=p40",
+      "profileUrl": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Giocatore/Scheda/7791629/Scheda"
+    }
+  ],
+  "warnings": []
+}
