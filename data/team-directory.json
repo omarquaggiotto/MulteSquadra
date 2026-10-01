@@ -1,0 +1,3590 @@
+[
+  {
+    "teamId": 933965,
+    "name": "7 Mulini Fimon",
+    "league": "SecondaCategoria · GironeE",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/933965.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:47.164Z"
+  },
+  {
+    "teamId": 57747,
+    "name": "Abano Calcio",
+    "league": "SecondaCategoria · GironeI",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/57747.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:50.929Z"
+  },
+  {
+    "teamId": 1097839,
+    "name": "Academy Plateola 1911",
+    "league": "Promozione · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1097839.png?v=18",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:29.364Z"
+  },
+  {
+    "teamId": 1283499,
+    "name": "ACB La Masia",
+    "league": "SecondaCategoria · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1283499.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:46.183Z"
+  },
+  {
+    "teamId": 935528,
+    "name": "Acquanegra Cremonese",
+    "league": "SecondaCategoria · GironeJ",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/935528.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:51.977Z"
+  },
+  {
+    "teamId": 700,
+    "name": "Adriese",
+    "league": "Eccellenza · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/700.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:26.299Z"
+  },
+  {
+    "teamId": 1164650,
+    "name": "Agna Academy",
+    "league": "SecondaCategoria · GironeL",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1164650.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:53.757Z"
+  },
+  {
+    "teamId": 1199585,
+    "name": "Agno Dioniso",
+    "league": "SecondaCategoria · GironeE",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1199585.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:47.164Z"
+  },
+  {
+    "teamId": 1078892,
+    "name": "Albarella Rosolina Mare",
+    "league": "SecondaCategoria · GironeH",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1078892.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:50.001Z"
+  },
+  {
+    "teamId": 932848,
+    "name": "Albignasego Calcio",
+    "league": "Promozione · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/932848.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:30.299Z"
+  },
+  {
+    "teamId": 780367,
+    "name": "Alpo Club 98",
+    "league": "PrimaCategoria · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780367.png?v=23",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:33.258Z"
+  },
+  {
+    "teamId": 61618,
+    "name": "Alpo Lepanto",
+    "league": "SecondaCategoria · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/61618.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:45.178Z"
+  },
+  {
+    "teamId": 58620,
+    "name": "Altair",
+    "league": "SecondaCategoria · GironeE",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/58620.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:47.164Z"
+  },
+  {
+    "teamId": 61617,
+    "name": "Alte Ceccato",
+    "league": "PrimaCategoria · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/61617.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:33.258Z"
+  },
+  {
+    "teamId": 780704,
+    "name": "Altivolese Maser",
+    "league": "PrimaCategoria · GironeH",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780704.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:42.145Z"
+  },
+  {
+    "teamId": 1199586,
+    "name": "Alto Academy",
+    "league": "PrimaCategoria · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1199586.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:34.202Z"
+  },
+  {
+    "teamId": 917125,
+    "name": "Alto Astico Cogollo",
+    "league": "SecondaCategoria · GironeF",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/917125.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:48.094Z"
+  },
+  {
+    "teamId": 1057837,
+    "name": "Altopolesine",
+    "league": "PrimaCategoria · GironeE",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1057837.png?v=4",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:39.109Z"
+  },
+  {
+    "teamId": 938047,
+    "name": "Amatori Bonferraro",
+    "league": "SecondaCategoria · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/938047.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:45.178Z"
+  },
+  {
+    "teamId": 1890,
+    "name": "Ambrosiana",
+    "league": "Eccellenza · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1890.png?v=6",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:26.300Z"
+  },
+  {
+    "teamId": 937773,
+    "name": "Ambrosiana Trebaseleghe",
+    "league": "PrimaCategoria · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/937773.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:35.270Z"
+  },
+  {
+    "teamId": 930103,
+    "name": "AQS Borgo Veneto",
+    "league": "Eccellenza · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/930103.png?v=8",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:26.300Z"
+  },
+  {
+    "teamId": 74881,
+    "name": "Arcella Padova",
+    "league": "Eccellenza · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/74881.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:27.347Z"
+  },
+  {
+    "teamId": 2890,
+    "name": "Ardisci e Spera",
+    "league": "Promozione · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/2890.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:29.364Z"
+  },
+  {
+    "teamId": 920528,
+    "name": "Ares Calcio Verona",
+    "league": "SecondaCategoria · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/920528.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:44.087Z"
+  },
+  {
+    "teamId": 1122270,
+    "name": "Arianese",
+    "league": "SecondaCategoria · GironeH",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1122270.png?v=4",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:50.001Z"
+  },
+  {
+    "teamId": 1098598,
+    "name": "Arinese",
+    "league": "SecondaCategoria · GironeN",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1098598.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:55.757Z"
+  },
+  {
+    "teamId": 63731,
+    "name": "Armistizio Esedra Don Bosco",
+    "league": "SecondaCategoria · GironeI",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/63731.png?v=5",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:50.929Z"
+  },
+  {
+    "teamId": 1098591,
+    "name": "Arzerello Sport",
+    "league": "SecondaCategoria · GironeL",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1098591.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:53.757Z"
+  },
+  {
+    "teamId": 1078794,
+    "name": "Asiago Calcio 7 Comuni",
+    "league": "SecondaCategoria · GironeF",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1078794.png?v=5",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:48.094Z"
+  },
+  {
+    "teamId": 1078893,
+    "name": "Atletico Bellombra",
+    "league": "SecondaCategoria · GironeH",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1078893.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:50.001Z"
+  },
+  {
+    "teamId": 780798,
+    "name": "Atletico Città Di Cerea",
+    "league": "Promozione · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780798.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:28.378Z"
+  },
+  {
+    "teamId": 1057836,
+    "name": "Atletico Granze",
+    "league": "SecondaCategoria · GironeL",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1057836.png?v=15",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:53.757Z"
+  },
+  {
+    "teamId": 1283491,
+    "name": "Atletico Montebello Vicentino",
+    "league": "TerzaCategoria · GironeAVicenza",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1283491.png?v=5",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:15.033Z"
+  },
+  {
+    "teamId": 1122279,
+    "name": "Atletico Squarà",
+    "league": "SecondaCategoria · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1122279.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:44.087Z"
+  },
+  {
+    "teamId": 3900,
+    "name": "Audace Calcio",
+    "league": "Promozione · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/3900.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:28.378Z"
+  },
+  {
+    "teamId": 921020,
+    "name": "Aurora Marchesino",
+    "league": "SecondaCategoria · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/921020.png?v=4",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:45.178Z"
+  },
+  {
+    "teamId": 68237,
+    "name": "Avesa H. S. M.",
+    "league": "SecondaCategoria · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/68237.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:44.087Z"
+  },
+  {
+    "teamId": 919290,
+    "name": "Azzurra Due Carrare",
+    "league": "PrimaCategoria · GironeE",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/919290.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:39.109Z"
+  },
+  {
+    "teamId": 780609,
+    "name": "Azzurra Maglio",
+    "league": "SecondaCategoria · GironeF",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780609.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:48.094Z"
+  },
+  {
+    "teamId": 61827,
+    "name": "Azzurra Sandrigo",
+    "league": "SecondaCategoria · GironeF",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/61827.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:48.094Z"
+  },
+  {
+    "teamId": 1122272,
+    "name": "Baldo Junior Team",
+    "league": "Promozione · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1122272.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:28.378Z"
+  },
+  {
+    "teamId": 61648,
+    "name": "Ballò Scaltenigo",
+    "league": "SecondaCategoria · GironeN",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/61648.png?v=4",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:55.757Z"
+  },
+  {
+    "teamId": 1122281,
+    "name": "Barbarano Mossano",
+    "league": "SecondaCategoria · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1122281.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:46.183Z"
+  },
+  {
+    "teamId": 5650,
+    "name": "Barbisano Eclisse",
+    "league": "Promozione · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/5650.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:31.240Z"
+  },
+  {
+    "teamId": 914528,
+    "name": "Baricetta",
+    "league": "SecondaCategoria · GironeH",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/914528.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:50.001Z"
+  },
+  {
+    "teamId": 920532,
+    "name": "Bassan Team Motta",
+    "league": "SecondaCategoria · GironeE",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/920532.png?v=26",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:47.164Z"
+  },
+  {
+    "teamId": 1098585,
+    "name": "Bassanese",
+    "league": "SecondaCategoria · GironeG",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1098585.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:49.025Z"
+  },
+  {
+    "teamId": 71116,
+    "name": "Belfiorese",
+    "league": "PrimaCategoria · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/71116.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:33.258Z"
+  },
+  {
+    "teamId": 52090,
+    "name": "Belvedere",
+    "league": "SecondaCategoria · GironeG",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/52090.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:49.025Z"
+  },
+  {
+    "teamId": 59312,
+    "name": "Berton Bolzano Vicentino",
+    "league": "Eccellenza · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/59312.png?v=9",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:26.300Z"
+  },
+  {
+    "teamId": 80142,
+    "name": "Bevilacqua Calcio",
+    "league": "Promozione · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/80142.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:28.378Z"
+  },
+  {
+    "teamId": 917139,
+    "name": "Bibione",
+    "league": "PrimaCategoria · GironeG",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/917139.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:41.179Z"
+  },
+  {
+    "teamId": 1098607,
+    "name": "Bissarese",
+    "league": "SecondaCategoria · GironeE",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1098607.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:47.164Z"
+  },
+  {
+    "teamId": 1078891,
+    "name": "Bissuola",
+    "league": "SecondaCategoria · GironeN",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1078891.png?v=9",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:55.757Z"
+  },
+  {
+    "teamId": 1098600,
+    "name": "BNC Noi",
+    "league": "SecondaCategoria · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1098600.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:44.087Z"
+  },
+  {
+    "teamId": 12180,
+    "name": "Boara Polesine",
+    "league": "SecondaCategoria · GironeH",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/12180.png?v=5",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:50.001Z"
+  },
+  {
+    "teamId": 1098596,
+    "name": "Bocar Juniors",
+    "league": "PrimaCategoria · GironeE",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1098596.png?v=13",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:39.109Z"
+  },
+  {
+    "teamId": 780776,
+    "name": "Bonarubiana",
+    "league": "SecondaCategoria · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780776.png?v=4",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:45.178Z"
+  },
+  {
+    "teamId": 80009,
+    "name": "Bonavigo 1961",
+    "league": "PrimaCategoria · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/80009.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:33.258Z"
+  },
+  {
+    "teamId": 919279,
+    "name": "Borgo Anguillara",
+    "league": "SecondaCategoria · GironeL",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/919279.png?v=7",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:53.757Z"
+  },
+  {
+    "teamId": 69807,
+    "name": "Borgo S. Pancrazio",
+    "league": "SecondaCategoria · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/69807.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:44.087Z"
+  },
+  {
+    "teamId": 920593,
+    "name": "Borgo Valbelluna",
+    "league": "Eccellenza · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/920593.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:27.347Z"
+  },
+  {
+    "teamId": 66822,
+    "name": "Borgoprimomaggio",
+    "league": "SecondaCategoria · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/66822.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:44.087Z"
+  },
+  {
+    "teamId": 1098594,
+    "name": "Borsea",
+    "league": "SecondaCategoria · GironeH",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1098594.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:50.001Z"
+  },
+  {
+    "teamId": 780168,
+    "name": "Bovolone 1918",
+    "league": "SecondaCategoria · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780168.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:45.178Z"
+  },
+  {
+    "teamId": 916125,
+    "name": "Boys Gazzo",
+    "league": "SecondaCategoria · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/916125.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:45.178Z"
+  },
+  {
+    "teamId": 7720,
+    "name": "Breganze",
+    "league": "SecondaCategoria · GironeF",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/7720.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:48.094Z"
+  },
+  {
+    "teamId": 69492,
+    "name": "Brendola",
+    "league": "PrimaCategoria · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/69492.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:33.258Z"
+  },
+  {
+    "teamId": 59292,
+    "name": "Brentella",
+    "league": "SecondaCategoria · GironeI",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/59292.png?v=8",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:50.929Z"
+  },
+  {
+    "teamId": 1164660,
+    "name": "Brundisium",
+    "league": "SecondaCategoria · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1164660.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:45.178Z"
+  },
+  {
+    "teamId": 1006603,
+    "name": "Brusegana S. Stefano",
+    "league": "SecondaCategoria · GironeI",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1006603.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:50.929Z"
+  },
+  {
+    "teamId": 932114,
+    "name": "Burecorrubbio",
+    "league": "SecondaCategoria · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/932114.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:43.111Z"
+  },
+  {
+    "teamId": 1283500,
+    "name": "Ca' 30 Calcio",
+    "league": "SecondaCategoria · GironeF",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1283500.png?v=4",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:48.094Z"
+  },
+  {
+    "teamId": 920912,
+    "name": "Ca' Emo",
+    "league": "SecondaCategoria · GironeH",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/920912.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:50.001Z"
+  },
+  {
+    "teamId": 8350,
+    "name": "Cadidavid",
+    "league": "Promozione · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/8350.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:28.378Z"
+  },
+  {
+    "teamId": 69282,
+    "name": "Cadore",
+    "league": "SecondaCategoria · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/69282.png?v=9",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:44.087Z"
+  },
+  {
+    "teamId": 57938,
+    "name": "Calcio Alpago",
+    "league": "Promozione · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/57938.png?v=5",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:31.240Z"
+  },
+  {
+    "teamId": 58764,
+    "name": "Calcio Bussolengo",
+    "league": "PrimaCategoria · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/58764.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:32.289Z"
+  },
+  {
+    "teamId": 780928,
+    "name": "Calcio Calmasino 2003",
+    "league": "SecondaCategoria · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780928.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:43.111Z"
+  },
+  {
+    "teamId": 1199587,
+    "name": "Calcio Calvene Lugo",
+    "league": "SecondaCategoria · GironeF",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1199587.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:48.094Z"
+  },
+  {
+    "teamId": 81750,
+    "name": "Calcio Cavarzere",
+    "league": "Promozione · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/81750.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:30.299Z"
+  },
+  {
+    "teamId": 917126,
+    "name": "Calcio Colceresa",
+    "league": "SecondaCategoria · GironeG",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/917126.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:49.025Z"
+  },
+  {
+    "teamId": 780158,
+    "name": "Calcio Fossalunga",
+    "league": "PrimaCategoria · GironeH",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780158.png?v=8",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:42.145Z"
+  },
+  {
+    "teamId": 70566,
+    "name": "Calcio Gazzo",
+    "league": "TerzaCategoria · GironeAVicenza",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/70566.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:15.033Z"
+  },
+  {
+    "teamId": 64410,
+    "name": "Calcio Istrana 1964",
+    "league": "Promozione · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/64410.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:31.240Z"
+  },
+  {
+    "teamId": 1005756,
+    "name": "Calcio Marghera",
+    "league": "PrimaCategoria · GironeF",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1005756.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:40.067Z"
+  },
+  {
+    "teamId": 25060,
+    "name": "Calcio Meolo",
+    "league": "PrimaCategoria · GironeG",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/25060.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:41.179Z"
+  },
+  {
+    "teamId": 918996,
+    "name": "Calcio Montegrotto Terme",
+    "league": "SecondaCategoria · GironeL",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/918996.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:53.757Z"
+  },
+  {
+    "teamId": 780529,
+    "name": "Calcio Ponte Nelle Alpi",
+    "league": "PrimaCategoria · GironeH",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780529.png?v=5",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:42.145Z"
+  },
+  {
+    "teamId": 914293,
+    "name": "Calcio Porto Viro",
+    "league": "Promozione · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/914293.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:30.299Z"
+  },
+  {
+    "teamId": 43340,
+    "name": "Calcio Rosà",
+    "league": "PrimaCategoria · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/43340.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:35.270Z"
+  },
+  {
+    "teamId": 1056978,
+    "name": "Calcio San Fior",
+    "league": "PrimaCategoria · GironeG",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1056978.png?v=4",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:41.179Z"
+  },
+  {
+    "teamId": 918772,
+    "name": "Calcio Santa Lucia",
+    "league": "PrimaCategoria · GironeG",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/918772.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:41.179Z"
+  },
+  {
+    "teamId": 56060,
+    "name": "Calcio Saonara Villatora",
+    "league": "Promozione · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/56060.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:30.299Z"
+  },
+  {
+    "teamId": 780899,
+    "name": "Calcio Sarcedo",
+    "league": "Promozione · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780899.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:29.364Z"
+  },
+  {
+    "teamId": 72507,
+    "name": "Calcio Tezze",
+    "league": "Promozione · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/72507.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:29.364Z"
+  },
+  {
+    "teamId": 1137060,
+    "name": "Calcio Torre",
+    "league": "SecondaCategoria · GironeF",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1137060.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:48.094Z"
+  },
+  {
+    "teamId": 935559,
+    "name": "Calcio Trissino",
+    "league": "Promozione · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/935559.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:29.364Z"
+  },
+  {
+    "teamId": 780331,
+    "name": "Calcio Union C. U. S.",
+    "league": "SecondaCategoria · GironeI",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780331.png?v=5",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:50.929Z"
+  },
+  {
+    "teamId": 1098589,
+    "name": "Calcio Veggiano S.C.",
+    "league": "SecondaCategoria · GironeM",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1098589.png?v=4",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:54.702Z"
+  },
+  {
+    "teamId": 8920,
+    "name": "Camisano Calcio 1910",
+    "league": "Promozione · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/8920.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:29.364Z"
+  },
+  {
+    "teamId": 9130,
+    "name": "Campocroce",
+    "league": "SecondaCategoria · GironeN",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/9130.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:55.757Z"
+  },
+  {
+    "teamId": 780129,
+    "name": "Camponogarese",
+    "league": "PrimaCategoria · GironeF",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780129.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:40.067Z"
+  },
+  {
+    "teamId": 1164651,
+    "name": "Canossa Conselve",
+    "league": "SecondaCategoria · GironeL",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1164651.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:53.757Z"
+  },
+  {
+    "teamId": 25120,
+    "name": "Caorle La Salute",
+    "league": "Promozione · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/25120.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:31.240Z"
+  },
+  {
+    "teamId": 9620,
+    "name": "Cappella Maggiore Fregona",
+    "league": "Promozione · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/9620.png?v=5",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:31.240Z"
+  },
+  {
+    "teamId": 1122274,
+    "name": "Caprino",
+    "league": "PrimaCategoria · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1122274.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:32.289Z"
+  },
+  {
+    "teamId": 920576,
+    "name": "Carbonera Breda",
+    "league": "Promozione · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/920576.png?v=4",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:31.240Z"
+  },
+  {
+    "teamId": 10030,
+    "name": "Carmenta",
+    "league": "PrimaCategoria · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/10030.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:35.270Z"
+  },
+  {
+    "teamId": 1122268,
+    "name": "Carpine 2016",
+    "league": "SecondaCategoria · GironeL",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1122268.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:53.757Z"
+  },
+  {
+    "teamId": 1238493,
+    "name": "Cartigliano Calcio",
+    "league": "SecondaCategoria · GironeG",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1238493.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:49.025Z"
+  },
+  {
+    "teamId": 75928,
+    "name": "Cartura",
+    "league": "SecondaCategoria · GironeL",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/75928.png?v=10",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:53.757Z"
+  },
+  {
+    "teamId": 65939,
+    "name": "Casalserugo Maserà",
+    "league": "Promozione · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/65939.png?v=24",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:30.299Z"
+  },
+  {
+    "teamId": 10620,
+    "name": "Caselle",
+    "league": "PrimaCategoria · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/10620.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:32.289Z"
+  },
+  {
+    "teamId": 75364,
+    "name": "Caselle Landi",
+    "league": "SecondaCategoria · GironeJ",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/75364.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:51.977Z"
+  },
+  {
+    "teamId": 780016,
+    "name": "Cassola",
+    "league": "PrimaCategoria · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780016.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:35.270Z"
+  },
+  {
+    "teamId": 59311,
+    "name": "Castel D'Azzano",
+    "league": "PrimaCategoria · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/59311.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:32.289Z"
+  },
+  {
+    "teamId": 935560,
+    "name": "Castelgomberto Lux",
+    "league": "SecondaCategoria · GironeE",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/935560.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:47.164Z"
+  },
+  {
+    "teamId": 780077,
+    "name": "Castelnuovo DG",
+    "league": "Eccellenza · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780077.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:26.300Z"
+  },
+  {
+    "teamId": 780624,
+    "name": "Castion",
+    "league": "SecondaCategoria · GironeM",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780624.png?v=5",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:54.702Z"
+  },
+  {
+    "teamId": 33140,
+    "name": "Cavallino",
+    "league": "PrimaCategoria · GironeG",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/33140.png?v=36",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:41.179Z"
+  },
+  {
+    "teamId": 1199690,
+    "name": "Cavalponica Aurora 2022",
+    "league": "SecondaCategoria · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1199690.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:46.183Z"
+  },
+  {
+    "teamId": 918754,
+    "name": "Cavarzano Belluno",
+    "league": "Eccellenza · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/918754.png?v=7",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:27.347Z"
+  },
+  {
+    "teamId": 935565,
+    "name": "Cavinese Airone",
+    "league": "PrimaCategoria · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/935565.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:35.270Z"
+  },
+  {
+    "teamId": 1137056,
+    "name": "Cherubine",
+    "league": "SecondaCategoria · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1137056.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:45.178Z"
+  },
+  {
+    "teamId": 12610,
+    "name": "Chiampo",
+    "league": "Eccellenza · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/12610.png?v=5",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:26.300Z"
+  },
+  {
+    "teamId": 675358,
+    "name": "Cicopieve",
+    "league": "SecondaCategoria · GironeJ",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/675358.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:51.977Z"
+  },
+  {
+    "teamId": 915647,
+    "name": "Cimapiave",
+    "league": "PrimaCategoria · GironeG",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/915647.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:41.179Z"
+  },
+  {
+    "teamId": 1164658,
+    "name": "Cisano Juventina Bardolino",
+    "league": "PrimaCategoria · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1164658.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:32.289Z"
+  },
+  {
+    "teamId": 13080,
+    "name": "Cisonese Mob. Callesella",
+    "league": "PrimaCategoria · GironeH",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/13080.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:42.145Z"
+  },
+  {
+    "teamId": 780371,
+    "name": "Cola Villa Dei Cedri",
+    "league": "SecondaCategoria · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780371.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:43.111Z"
+  },
+  {
+    "teamId": 58652,
+    "name": "Colli Euganei",
+    "league": "SecondaCategoria · GironeI",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/58652.png?v=5",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:50.929Z"
+  },
+  {
+    "teamId": 76597,
+    "name": "Colognola Ai Colli",
+    "league": "Promozione · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/76597.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:28.378Z"
+  },
+  {
+    "teamId": 74067,
+    "name": "Concordia",
+    "league": "PrimaCategoria · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/74067.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:32.289Z"
+  },
+  {
+    "teamId": 1002827,
+    "name": "Concordia Bassano 2023",
+    "league": "SecondaCategoria · GironeG",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1002827.png?v=9",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:49.025Z"
+  },
+  {
+    "teamId": 1009995,
+    "name": "Consolini Calcio",
+    "league": "PrimaCategoria · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1009995.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:32.289Z"
+  },
+  {
+    "teamId": 1171788,
+    "name": "Corte",
+    "league": "SecondaCategoria · GironeL",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1171788.png?v=4",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:53.757Z"
+  },
+  {
+    "teamId": 1122282,
+    "name": "Cresole 80",
+    "league": "SecondaCategoria · GironeE",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1122282.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:47.164Z"
+  },
+  {
+    "teamId": 935567,
+    "name": "Curtarolese 97",
+    "league": "SecondaCategoria · GironeM",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/935567.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:54.702Z"
+  },
+  {
+    "teamId": 915642,
+    "name": "Dolo 1909 Pianiga",
+    "league": "Eccellenza · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/915642.png?v=5",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:27.347Z"
+  },
+  {
+    "teamId": 919022,
+    "name": "Dorial",
+    "league": "PrimaCategoria · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/919022.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:32.289Z"
+  },
+  {
+    "teamId": 78756,
+    "name": "Due Monti",
+    "league": "PrimaCategoria · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/78756.png?v=6",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:35.270Z"
+  },
+  {
+    "teamId": 913863,
+    "name": "Due Stelle",
+    "league": "PrimaCategoria · GironeE",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/913863.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:39.109Z"
+  },
+  {
+    "teamId": 1097837,
+    "name": "Dueville Calcio",
+    "league": "Promozione · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1097837.png?v=5",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:29.364Z"
+  },
+  {
+    "teamId": 206190,
+    "name": "Duomo",
+    "league": "SecondaCategoria · GironeH",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/206190.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:50.001Z"
+  },
+  {
+    "teamId": 918753,
+    "name": "Eclisse Carenipievigina",
+    "league": "Eccellenza · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/918753.png?v=7",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:27.347Z"
+  },
+  {
+    "teamId": 919543,
+    "name": "Eurocalcio",
+    "league": "Promozione · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/919543.png?v=8",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:29.364Z"
+  },
+  {
+    "teamId": 206197,
+    "name": "Fanzolo",
+    "league": "SecondaCategoria · GironeM",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/206197.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:54.702Z"
+  },
+  {
+    "teamId": 57917,
+    "name": "Favaro 1948",
+    "league": "PrimaCategoria · GironeF",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/57917.png?v=7",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:40.067Z"
+  },
+  {
+    "teamId": 935561,
+    "name": "Ficarolese",
+    "league": "SecondaCategoria · GironeH",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/935561.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:50.001Z"
+  },
+  {
+    "teamId": 917134,
+    "name": "Fides San Pietro In Gu",
+    "league": "SecondaCategoria · GironeE",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/917134.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:47.164Z"
+  },
+  {
+    "teamId": 18230,
+    "name": "Fiessese",
+    "league": "PrimaCategoria · GironeE",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/18230.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:39.109Z"
+  },
+  {
+    "teamId": 780426,
+    "name": "Fiori Barp Mas",
+    "league": "Promozione · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780426.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:31.240Z"
+  },
+  {
+    "teamId": 19050,
+    "name": "Fontanelle",
+    "league": "Promozione · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/19050.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:31.240Z"
+  },
+  {
+    "teamId": 1005641,
+    "name": "Fontanivese S. Giorgio",
+    "league": "PrimaCategoria · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1005641.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:35.270Z"
+  },
+  {
+    "teamId": 932121,
+    "name": "Football Valbrenta",
+    "league": "Promozione · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/932121.png?v=6",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:29.364Z"
+  },
+  {
+    "teamId": 917421,
+    "name": "Fossò",
+    "league": "PrimaCategoria · GironeF",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/917421.png?v=8",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:40.067Z"
+  },
+  {
+    "teamId": 77702,
+    "name": "Fratte Rondinelle",
+    "league": "SecondaCategoria · GironeM",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/77702.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:54.702Z"
+  },
+  {
+    "teamId": 919280,
+    "name": "Fulgor Massanzago",
+    "league": "PrimaCategoria · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/919280.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:35.270Z"
+  },
+  {
+    "teamId": 20090,
+    "name": "Fulgor Trevignano",
+    "league": "PrimaCategoria · GironeH",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/20090.png?v=6",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:42.145Z"
+  },
+  {
+    "teamId": 1137050,
+    "name": "Fumanese Calcio",
+    "league": "PrimaCategoria · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1137050.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:32.289Z"
+  },
+  {
+    "teamId": 918960,
+    "name": "G.s. Pescarolo",
+    "league": "SecondaCategoria · GironeJ",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/918960.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:51.977Z"
+  },
+  {
+    "teamId": 915643,
+    "name": "Gabetti Valeggio",
+    "league": "SecondaCategoria · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/915643.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:43.111Z"
+  },
+  {
+    "teamId": 80144,
+    "name": "Galaxy",
+    "league": "PrimaCategoria · GironeF",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/80144.png?v=8",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:40.067Z"
+  },
+  {
+    "teamId": 64413,
+    "name": "Galliera",
+    "league": "Eccellenza · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/64413.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:27.347Z"
+  },
+  {
+    "teamId": 1235430,
+    "name": "Garda",
+    "league": "SecondaCategoria · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1235430.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:43.111Z"
+  },
+  {
+    "teamId": 62484,
+    "name": "Gargagnago",
+    "league": "SecondaCategoria · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/62484.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:43.111Z"
+  },
+  {
+    "teamId": 780894,
+    "name": "Gazzera Olimpia Chirignago",
+    "league": "SecondaCategoria · GironeN",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780894.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:55.757Z"
+  },
+  {
+    "teamId": 1010001,
+    "name": "Gazzolo 2014",
+    "league": "SecondaCategoria · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1010001.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:46.183Z"
+  },
+  {
+    "teamId": 1078898,
+    "name": "Gianesini",
+    "league": "SecondaCategoria · GironeI",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1078898.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:50.929Z"
+  },
+  {
+    "teamId": 780617,
+    "name": "Giorgione 1911",
+    "league": "Promozione · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780617.png?v=4",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:29.364Z"
+  },
+  {
+    "teamId": 1057839,
+    "name": "Giovane Italia Polesella",
+    "league": "SecondaCategoria · GironeH",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1057839.png?v=5",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:50.001Z"
+  },
+  {
+    "teamId": 780322,
+    "name": "Gips Salizzole Set. Calcio",
+    "league": "SecondaCategoria · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780322.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:45.178Z"
+  },
+  {
+    "teamId": 933880,
+    "name": "Godigese",
+    "league": "Eccellenza · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/933880.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:27.347Z"
+  },
+  {
+    "teamId": 780188,
+    "name": "Gorghense",
+    "league": "PrimaCategoria · GironeG",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780188.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:41.179Z"
+  },
+  {
+    "teamId": 58659,
+    "name": "Grantorto",
+    "league": "PrimaCategoria · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/58659.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:35.270Z"
+  },
+  {
+    "teamId": 1057383,
+    "name": "Grego Padova",
+    "league": "SecondaCategoria · GironeM",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1057383.png?v=4",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:54.702Z"
+  },
+  {
+    "teamId": 780896,
+    "name": "Grignano",
+    "league": "SecondaCategoria · GironeH",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780896.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:50.001Z"
+  },
+  {
+    "teamId": 932514,
+    "name": "Grumolo",
+    "league": "SecondaCategoria · GironeE",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/932514.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:47.164Z"
+  },
+  {
+    "teamId": 932110,
+    "name": "Gussola 1998",
+    "league": "SecondaCategoria · GironeJ",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/932110.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:51.977Z"
+  },
+  {
+    "teamId": 71882,
+    "name": "Illasi",
+    "league": "PrimaCategoria · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/71882.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:33.258Z"
+  },
+  {
+    "teamId": 1023347,
+    "name": "Indomita Vigodarzere",
+    "league": "PrimaCategoria · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1023347.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:35.270Z"
+  },
+  {
+    "teamId": 81045,
+    "name": "Isola Castelnovo",
+    "league": "PrimaCategoria · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/81045.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:34.202Z"
+  },
+  {
+    "teamId": 23590,
+    "name": "Isola Rizza Roverchiara",
+    "league": "Promozione · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/23590.png?v=4",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:28.378Z"
+  },
+  {
+    "teamId": 1023346,
+    "name": "Janus Euganea",
+    "league": "Promozione · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1023346.png?v=10",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:30.299Z"
+  },
+  {
+    "teamId": 780277,
+    "name": "Jesolo",
+    "league": "PrimaCategoria · GironeG",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780277.png?v=5",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:41.179Z"
+  },
+  {
+    "teamId": 79236,
+    "name": "JM Feltre",
+    "league": "PrimaCategoria · GironeH",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/79236.png?v=6",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:42.145Z"
+  },
+  {
+    "teamId": 23850,
+    "name": "Julia Sagittaria",
+    "league": "Promozione · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/23850.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:31.240Z"
+  },
+  {
+    "teamId": 932124,
+    "name": "Junior Monticello",
+    "league": "PrimaCategoria · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/932124.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:34.202Z"
+  },
+  {
+    "teamId": 1324899,
+    "name": "Junior Monticello Sq. B",
+    "league": "TerzaCategoria · GironeAVicenza",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1324899.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:15.033Z"
+  },
+  {
+    "teamId": 920537,
+    "name": "Juventina Laghi",
+    "league": "SecondaCategoria · GironeG",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/920537.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:49.025Z"
+  },
+  {
+    "teamId": 1035163,
+    "name": "Juventina Marghera",
+    "league": "SecondaCategoria · GironeN",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1035163.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:55.757Z"
+  },
+  {
+    "teamId": 918997,
+    "name": "Juventina Valpantena",
+    "league": "SecondaCategoria · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/918997.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:44.087Z"
+  },
+  {
+    "teamId": 32520,
+    "name": "La Contea",
+    "league": "SecondaCategoria · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/32520.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:46.183Z"
+  },
+  {
+    "teamId": 25040,
+    "name": "La Rocca Monselice",
+    "league": "Promozione · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/25040.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:30.299Z"
+  },
+  {
+    "teamId": 1199574,
+    "name": "La Vittoriosa",
+    "league": "SecondaCategoria · GironeH",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1199574.png?v=4",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:50.001Z"
+  },
+  {
+    "teamId": 71893,
+    "name": "Lakota",
+    "league": "TerzaCategoria · GironeAVicenza",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/71893.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:15.033Z"
+  },
+  {
+    "teamId": 1010004,
+    "name": "Lampo 1945",
+    "league": "SecondaCategoria · GironeE",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1010004.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:47.164Z"
+  },
+  {
+    "teamId": 76344,
+    "name": "Lazise",
+    "league": "SecondaCategoria · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/76344.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:43.111Z"
+  },
+  {
+    "teamId": 26070,
+    "name": "Lentiai Limana",
+    "league": "PrimaCategoria · GironeH",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/26070.png?v=5",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:42.145Z"
+  },
+  {
+    "teamId": 34930,
+    "name": "LeO Oderzo",
+    "league": "Eccellenza · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/34930.png?v=18",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:27.347Z"
+  },
+  {
+    "teamId": 66842,
+    "name": "Leodari Caldogno",
+    "league": "Promozione · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/66842.png?v=6",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:29.364Z"
+  },
+  {
+    "teamId": 930724,
+    "name": "Lessinia Marzana",
+    "league": "SecondaCategoria · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/930724.png?v=11",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:44.087Z"
+  },
+  {
+    "teamId": 917132,
+    "name": "Liapiave",
+    "league": "Eccellenza · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/917132.png?v=10",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:27.347Z"
+  },
+  {
+    "teamId": 26340,
+    "name": "Libertas Ceggia 1910",
+    "league": "PrimaCategoria · GironeG",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/26340.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:41.179Z"
+  },
+  {
+    "teamId": 780612,
+    "name": "Limena",
+    "league": "Eccellenza · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780612.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:26.300Z"
+  },
+  {
+    "teamId": 1087001,
+    "name": "Lions Alto Chiampo",
+    "league": "TerzaCategoria · GironeAVicenza",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1087001.png?v=5",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:15.032Z"
+  },
+  {
+    "teamId": 935971,
+    "name": "Lions Villanova",
+    "league": "SecondaCategoria · GironeN",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/935971.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:55.757Z"
+  },
+  {
+    "teamId": 65287,
+    "name": "Locara Calcio",
+    "league": "SecondaCategoria · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/65287.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:46.183Z"
+  },
+  {
+    "teamId": 914106,
+    "name": "Longa 90",
+    "league": "SecondaCategoria · GironeG",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/914106.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:49.025Z"
+  },
+  {
+    "teamId": 918765,
+    "name": "Longare Castegnero",
+    "league": "PrimaCategoria · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/918765.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:34.202Z"
+  },
+  {
+    "teamId": 932126,
+    "name": "Lonigo",
+    "league": "SecondaCategoria · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/932126.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:46.183Z"
+  },
+  {
+    "teamId": 780816,
+    "name": "Loreo",
+    "league": "Promozione · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780816.png?v=5",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:30.299Z"
+  },
+  {
+    "teamId": 917131,
+    "name": "Lovispresiano",
+    "league": "Promozione · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/917131.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:31.240Z"
+  },
+  {
+    "teamId": 1006997,
+    "name": "Lugagnano",
+    "league": "PrimaCategoria · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1006997.png?v=4",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:32.289Z"
+  },
+  {
+    "teamId": 780072,
+    "name": "Maddalene",
+    "league": "PrimaCategoria · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780072.png?v=4",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:34.202Z"
+  },
+  {
+    "teamId": 28630,
+    "name": "Malcesine Calcio",
+    "league": "PrimaCategoria · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/28630.png?v=6",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:32.289Z"
+  },
+  {
+    "teamId": 28670,
+    "name": "Malo 1908",
+    "league": "Promozione · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/28670.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:29.364Z"
+  },
+  {
+    "teamId": 1057468,
+    "name": "Marchi Marano Galaxy",
+    "league": "SecondaCategoria · GironeN",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1057468.png?v=5",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:55.757Z"
+  },
+  {
+    "teamId": 675644,
+    "name": "Marini",
+    "league": "SecondaCategoria · GironeJ",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/675644.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:51.977Z"
+  },
+  {
+    "teamId": 29390,
+    "name": "Marosticense",
+    "league": "Eccellenza · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/29390.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:27.347Z"
+  },
+  {
+    "teamId": 29490,
+    "name": "Martelli",
+    "league": "SecondaCategoria · GironeJ",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/29490.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:51.977Z"
+  },
+  {
+    "teamId": 66427,
+    "name": "Mestrino United",
+    "league": "Eccellenza · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/66427.png?v=36",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:26.300Z"
+  },
+  {
+    "teamId": 780350,
+    "name": "Miranese",
+    "league": "PrimaCategoria · GironeF",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780350.png?v=24",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:40.067Z"
+  },
+  {
+    "teamId": 75933,
+    "name": "Molina",
+    "league": "PrimaCategoria · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/75933.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:34.202Z"
+  },
+  {
+    "teamId": 57909,
+    "name": "Monbiagio",
+    "league": "PrimaCategoria · GironeG",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/57909.png?v=15",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:41.179Z"
+  },
+  {
+    "teamId": 1009985,
+    "name": "Monselice Calcio",
+    "league": "Promozione · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1009985.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:30.299Z"
+  },
+  {
+    "teamId": 31650,
+    "name": "Montagnana",
+    "league": "PrimaCategoria · GironeE",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/31650.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:39.109Z"
+  },
+  {
+    "teamId": 69497,
+    "name": "Monte Di Malo",
+    "league": "SecondaCategoria · GironeF",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/69497.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:48.094Z"
+  },
+  {
+    "teamId": 31890,
+    "name": "Montebello Calcio 1911",
+    "league": "PrimaCategoria · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/31890.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:33.258Z"
+  },
+  {
+    "teamId": 76341,
+    "name": "Montecchio Maggiore",
+    "league": "Eccellenza · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/76341.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:26.300Z"
+  },
+  {
+    "teamId": 66423,
+    "name": "Montecchio Precalcino",
+    "league": "SecondaCategoria · GironeF",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/66423.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:48.094Z"
+  },
+  {
+    "teamId": 32020,
+    "name": "Montecchio S. Pietro",
+    "league": "PrimaCategoria · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/32020.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:33.258Z"
+  },
+  {
+    "teamId": 1238518,
+    "name": "Montecchio S. Pietro Sq. B",
+    "league": "TerzaCategoria · GironeAVicenza",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1238518.png?v=2",
+    "teamUrl": "https://www.tuttocampo.it/Veneto/TerzaCategoria/GironeAVicenza/Squadra/MontecchioSPietroSqB/1238518/Scheda",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:15.033Z"
+  },
+  {
+    "teamId": 9690,
+    "name": "Monteforte Valdalpone",
+    "league": "SecondaCategoria · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/9690.png?v=12",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:46.183Z"
+  },
+  {
+    "teamId": 930107,
+    "name": "Montegrappa",
+    "league": "SecondaCategoria · GironeG",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/930107.png?v=5",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:49.025Z"
+  },
+  {
+    "teamId": 934014,
+    "name": "Montello",
+    "league": "Promozione · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/934014.png?v=5",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:31.240Z"
+  },
+  {
+    "teamId": 59285,
+    "name": "Monteviale Calcio",
+    "league": "PrimaCategoria · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/59285.png?v=4",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:34.202Z"
+  },
+  {
+    "teamId": 676161,
+    "name": "Montodinese",
+    "league": "SecondaCategoria · GironeJ",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/676161.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:51.977Z"
+  },
+  {
+    "teamId": 917187,
+    "name": "Montorio",
+    "league": "Eccellenza · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/917187.png?v=4",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:26.300Z"
+  },
+  {
+    "teamId": 205262,
+    "name": "Mottinello Nuovo",
+    "league": "SecondaCategoria · GironeG",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/205262.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:49.025Z"
+  },
+  {
+    "teamId": 1078904,
+    "name": "Muranese 1929",
+    "league": "SecondaCategoria · GironeN",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1078904.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:55.757Z"
+  },
+  {
+    "teamId": 1238512,
+    "name": "Napoleonica",
+    "league": "SecondaCategoria · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1238512.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:46.183Z"
+  },
+  {
+    "teamId": 780903,
+    "name": "Nogara Calcio",
+    "league": "PrimaCategoria · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780903.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:33.258Z"
+  },
+  {
+    "teamId": 780656,
+    "name": "Nova Gens",
+    "league": "SecondaCategoria · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780656.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:46.183Z"
+  },
+  {
+    "teamId": 1035152,
+    "name": "Novacalcio",
+    "league": "SecondaCategoria · GironeI",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1035152.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:50.929Z"
+  },
+  {
+    "teamId": 935564,
+    "name": "Nove Stefani Consulting",
+    "league": "PrimaCategoria · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/935564.png?v=6",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:34.202Z"
+  },
+  {
+    "teamId": 33830,
+    "name": "Noventa",
+    "league": "Promozione · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/33830.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:31.240Z"
+  },
+  {
+    "teamId": 1035148,
+    "name": "Nuova Loreggia Calcio",
+    "league": "PrimaCategoria · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1035148.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:35.270Z"
+  },
+  {
+    "teamId": 1235842,
+    "name": "Nuova New Rangers",
+    "league": "SecondaCategoria · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1235842.png?v=4",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:43.111Z"
+  },
+  {
+    "teamId": 1078908,
+    "name": "Nuovo Bardolino",
+    "league": "SecondaCategoria · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1078908.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:43.111Z"
+  },
+  {
+    "teamId": 1199582,
+    "name": "Nuovo Calcio Casaleone",
+    "league": "SecondaCategoria · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1199582.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:45.178Z"
+  },
+  {
+    "teamId": 1001817,
+    "name": "Nuovo Ponso Ospedaletto Calcio",
+    "league": "SecondaCategoria · GironeI",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1001817.png?v=4",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:50.929Z"
+  },
+  {
+    "teamId": 915900,
+    "name": "Nuovo San Pietro",
+    "league": "SecondaCategoria · GironeL",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/915900.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:53.757Z"
+  },
+  {
+    "teamId": 1164042,
+    "name": "Olimpia Verona",
+    "league": "PrimaCategoria · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1164042.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:32.289Z"
+  },
+  {
+    "teamId": 18260,
+    "name": "Olimpica Dossobuono",
+    "league": "PrimaCategoria · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/18260.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:32.289Z"
+  },
+  {
+    "teamId": 1057822,
+    "name": "Olympia Padova",
+    "league": "PrimaCategoria · GironeF",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1057822.png?v=8",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:40.067Z"
+  },
+  {
+    "teamId": 780669,
+    "name": "Oppeano",
+    "league": "Eccellenza · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780669.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:26.300Z"
+  },
+  {
+    "teamId": 35450,
+    "name": "Orsago",
+    "league": "PrimaCategoria · GironeG",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/35450.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:41.179Z"
+  },
+  {
+    "teamId": 917308,
+    "name": "Orsiana",
+    "league": "SecondaCategoria · GironeF",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/917308.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:48.094Z"
+  },
+  {
+    "teamId": 1199566,
+    "name": "Ospedaletto Vicenza",
+    "league": "TerzaCategoria · GironeAVicenza",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1199566.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:15.033Z"
+  },
+  {
+    "teamId": 917098,
+    "name": "P.s.g.",
+    "league": "SecondaCategoria · GironeJ",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/917098.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:51.977Z"
+  },
+  {
+    "teamId": 1199579,
+    "name": "Palazzolo",
+    "league": "SecondaCategoria · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1199579.png?v=22",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:43.111Z"
+  },
+  {
+    "teamId": 36460,
+    "name": "Parona",
+    "league": "SecondaCategoria · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/36460.png?v=13",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:43.111Z"
+  },
+  {
+    "teamId": 1164648,
+    "name": "Patavium Cadoneghe",
+    "league": "SecondaCategoria · GironeM",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1164648.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:54.702Z"
+  },
+  {
+    "teamId": 1164666,
+    "name": "Pedemontana",
+    "league": "SecondaCategoria · GironeF",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1164666.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:48.094Z"
+  },
+  {
+    "teamId": 780009,
+    "name": "Pedemonte",
+    "league": "Promozione · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780009.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:28.378Z"
+  },
+  {
+    "teamId": 1323842,
+    "name": "Pedezzi 1950",
+    "league": "TerzaCategoria · GironeAVicenza",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1323842.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:15.033Z"
+  },
+  {
+    "teamId": 75838,
+    "name": "Persico Dosimo",
+    "league": "SecondaCategoria · GironeJ",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/75838.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:51.977Z"
+  },
+  {
+    "teamId": 937781,
+    "name": "Pescantina Settimo",
+    "league": "Promozione · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/937781.png?v=5",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:28.378Z"
+  },
+  {
+    "teamId": 780898,
+    "name": "Peschiera D G",
+    "league": "PrimaCategoria · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780898.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:32.289Z"
+  },
+  {
+    "teamId": 915577,
+    "name": "Pettorazza San Martino",
+    "league": "PrimaCategoria · GironeE",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/915577.png?v=10",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:39.109Z"
+  },
+  {
+    "teamId": 1005793,
+    "name": "PGS Concordia",
+    "league": "TerzaCategoria · GironeAVicenza",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1005793.png?v=4",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:15.033Z"
+  },
+  {
+    "teamId": 1324896,
+    "name": "Piana 2025 (-1)",
+    "league": "TerzaCategoria · GironeAVicenza",
+    "logo": "https://www.tuttocampo.it",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:15.033Z"
+  },
+  {
+    "teamId": 64411,
+    "name": "Piovese",
+    "league": "Eccellenza · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/64411.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:26.300Z"
+  },
+  {
+    "teamId": 63322,
+    "name": "Poleo Aste",
+    "league": "PrimaCategoria · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/63322.png?v=5",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:34.202Z"
+  },
+  {
+    "teamId": 202254,
+    "name": "Polisportiva La Vetta",
+    "league": "SecondaCategoria · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/202254.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:43.111Z"
+  },
+  {
+    "teamId": 917137,
+    "name": "Polisportiva Real Terme",
+    "league": "PrimaCategoria · GironeE",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/917137.png?v=6",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:39.109Z"
+  },
+  {
+    "teamId": 780755,
+    "name": "Polisportiva San Pietro",
+    "league": "SecondaCategoria · GironeL",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780755.png?v=6",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:53.757Z"
+  },
+  {
+    "teamId": 935913,
+    "name": "Ponte Crepaldo S.G. Bosco",
+    "league": "PrimaCategoria · GironeG",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/935913.png?v=5",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:41.179Z"
+  },
+  {
+    "teamId": 206198,
+    "name": "Ponte Dei Nori",
+    "league": "SecondaCategoria · GironeF",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/206198.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:48.094Z"
+  },
+  {
+    "teamId": 780775,
+    "name": "Pontecorr",
+    "league": "SecondaCategoria · GironeL",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780775.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:53.757Z"
+  },
+  {
+    "teamId": 38900,
+    "name": "Ponzano Calcio",
+    "league": "PrimaCategoria · GironeH",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/38900.png?v=5",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:42.145Z"
+  },
+  {
+    "teamId": 66847,
+    "name": "Porto",
+    "league": "SecondaCategoria · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/66847.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:45.178Z"
+  },
+  {
+    "teamId": 1164656,
+    "name": "Porto Tolle 2010",
+    "league": "SecondaCategoria · GironeH",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1164656.png?v=12",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:50.001Z"
+  },
+  {
+    "teamId": 78819,
+    "name": "Portogruaro Calcio",
+    "league": "Eccellenza · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/78819.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:27.347Z"
+  },
+  {
+    "teamId": 780260,
+    "name": "Portomansuè",
+    "league": "Eccellenza · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780260.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:27.347Z"
+  },
+  {
+    "teamId": 1056979,
+    "name": "Postioma Porcellengo",
+    "league": "PrimaCategoria · GironeH",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1056979.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:42.145Z"
+  },
+  {
+    "teamId": 780425,
+    "name": "Povegliano Veronese",
+    "league": "PrimaCategoria · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780425.png?v=4",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:32.289Z"
+  },
+  {
+    "teamId": 204126,
+    "name": "Pozzetto",
+    "league": "SecondaCategoria · GironeM",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/204126.png?v=15",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:54.702Z"
+  },
+  {
+    "teamId": 1283494,
+    "name": "Pozzo IFA Verona",
+    "league": "SecondaCategoria · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1283494.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:44.087Z"
+  },
+  {
+    "teamId": 62487,
+    "name": "Pozzonovo",
+    "league": "Eccellenza · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/62487.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:26.300Z"
+  },
+  {
+    "teamId": 1034821,
+    "name": "Pro Athletic",
+    "league": "SecondaCategoria · GironeN",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1034821.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:55.757Z"
+  },
+  {
+    "teamId": 930112,
+    "name": "Pro Venezia 2015",
+    "league": "PrimaCategoria · GironeF",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/930112.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:40.067Z"
+  },
+  {
+    "teamId": 40780,
+    "name": "Provese",
+    "league": "PrimaCategoria · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/40780.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:33.258Z"
+  },
+  {
+    "teamId": 913865,
+    "name": "PSN Legnaro Polverara",
+    "league": "PrimaCategoria · GironeE",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/913865.png?v=8",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:39.109Z"
+  },
+  {
+    "teamId": 74882,
+    "name": "Q4 Padova",
+    "league": "SecondaCategoria · GironeM",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/74882.png?v=5",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:54.702Z"
+  },
+  {
+    "teamId": 62466,
+    "name": "Quaderni",
+    "league": "SecondaCategoria · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/62466.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:45.178Z"
+  },
+  {
+    "teamId": 1238494,
+    "name": "Quadrifoglio",
+    "league": "SecondaCategoria · GironeG",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1238494.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:49.025Z"
+  },
+  {
+    "teamId": 41040,
+    "name": "Quinto Vicentino",
+    "league": "SecondaCategoria · GironeE",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/41040.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:47.164Z"
+  },
+  {
+    "teamId": 205534,
+    "name": "R. E. A. L. Padova",
+    "league": "SecondaCategoria · GironeI",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/205534.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:50.929Z"
+  },
+  {
+    "teamId": 63719,
+    "name": "Raldon",
+    "league": "SecondaCategoria · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/63719.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:44.087Z"
+  },
+  {
+    "teamId": 938082,
+    "name": "Ramon 1980",
+    "league": "SecondaCategoria · GironeG",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/938082.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:49.025Z"
+  },
+  {
+    "teamId": 1035168,
+    "name": "Real Brogliano",
+    "league": "SecondaCategoria · GironeE",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1035168.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:47.164Z"
+  },
+  {
+    "teamId": 44590,
+    "name": "Real Grezzanalugo",
+    "league": "PrimaCategoria · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/44590.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:33.258Z"
+  },
+  {
+    "teamId": 914280,
+    "name": "Real Martellago",
+    "league": "PrimaCategoria · GironeF",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/914280.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:40.067Z"
+  },
+  {
+    "teamId": 1098608,
+    "name": "Real Rampazzo",
+    "league": "SecondaCategoria · GironeE",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1098608.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:47.164Z"
+  },
+  {
+    "teamId": 1199588,
+    "name": "Real San Zeno Arzignano",
+    "league": "SecondaCategoria · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1199588.png?v=5",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:46.183Z"
+  },
+  {
+    "teamId": 1323861,
+    "name": "Real SMC",
+    "league": "SecondaCategoria · GironeM",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1323861.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:54.702Z"
+  },
+  {
+    "teamId": 1001715,
+    "name": "Real Tavo",
+    "league": "SecondaCategoria · GironeM",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1001715.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:54.702Z"
+  },
+  {
+    "teamId": 920705,
+    "name": "Real Tremignon",
+    "league": "PrimaCategoria · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/920705.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:35.270Z"
+  },
+  {
+    "teamId": 69487,
+    "name": "Real Valpolicella",
+    "league": "Promozione · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/69487.png?v=8",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:28.378Z"
+  },
+  {
+    "teamId": 1137052,
+    "name": "Real Valpolicella Academy",
+    "league": "SecondaCategoria · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1137052.png?v=10",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:43.111Z"
+  },
+  {
+    "teamId": 1057845,
+    "name": "Recoaro",
+    "league": "TerzaCategoria · GironeAVicenza",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1057845.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:15.033Z"
+  },
+  {
+    "teamId": 780817,
+    "name": "Redentore",
+    "league": "SecondaCategoria · GironeI",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780817.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:50.929Z"
+  },
+  {
+    "teamId": 1098609,
+    "name": "Rino Toniolo",
+    "league": "TerzaCategoria · GironeAVicenza",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1098609.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:15.033Z"
+  },
+  {
+    "teamId": 66837,
+    "name": "Rio",
+    "league": "PrimaCategoria · GironeF",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/66837.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:40.067Z"
+  },
+  {
+    "teamId": 913991,
+    "name": "Riva Malcontenta",
+    "league": "SecondaCategoria · GironeN",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/913991.png?v=7",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:55.757Z"
+  },
+  {
+    "teamId": 1098597,
+    "name": "Rivarese",
+    "league": "SecondaCategoria · GironeH",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1098597.png?v=4",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:50.001Z"
+  },
+  {
+    "teamId": 915744,
+    "name": "Rivereel Sossano",
+    "league": "PrimaCategoria · GironeE",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/915744.png?v=7",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:39.109Z"
+  },
+  {
+    "teamId": 1078897,
+    "name": "Riviera Berica",
+    "league": "SecondaCategoria · GironeE",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1078897.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:47.164Z"
+  },
+  {
+    "teamId": 1199567,
+    "name": "Riviera Berica Sq. B",
+    "league": "TerzaCategoria · GironeAVicenza",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1199567.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:15.033Z"
+  },
+  {
+    "teamId": 1057842,
+    "name": "Rivoli 1964",
+    "league": "SecondaCategoria · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1057842.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:43.111Z"
+  },
+  {
+    "teamId": 917309,
+    "name": "Robecco D Oglio",
+    "league": "SecondaCategoria · GironeJ",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/917309.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:51.977Z"
+  },
+  {
+    "teamId": 68795,
+    "name": "Robeganese Fulgor Salzano",
+    "league": "Promozione · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/68795.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:30.299Z"
+  },
+  {
+    "teamId": 66819,
+    "name": "Rosegaferro",
+    "league": "SecondaCategoria · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/66819.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:45.178Z"
+  },
+  {
+    "teamId": 65190,
+    "name": "Rovigo",
+    "league": "Promozione · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/65190.png?v=11",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:30.299Z"
+  },
+  {
+    "teamId": 1238495,
+    "name": "Roxius",
+    "league": "SecondaCategoria · GironeG",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1238495.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:49.025Z"
+  },
+  {
+    "teamId": 780223,
+    "name": "S. Agostino",
+    "league": "SecondaCategoria · GironeI",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780223.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:50.929Z"
+  },
+  {
+    "teamId": 81923,
+    "name": "S. Anna D'Alfaedo",
+    "league": "SecondaCategoria · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/81923.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:43.111Z"
+  },
+  {
+    "teamId": 44050,
+    "name": "S. Croce",
+    "league": "SecondaCategoria · GironeG",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/44050.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:49.025Z"
+  },
+  {
+    "teamId": 71120,
+    "name": "S. Giovanni Lupatoto",
+    "league": "Promozione · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/71120.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:28.378Z"
+  },
+  {
+    "teamId": 917143,
+    "name": "S. Lazzaro Serenissima",
+    "league": "SecondaCategoria · GironeE",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/917143.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:47.164Z"
+  },
+  {
+    "teamId": 61575,
+    "name": "S. Marco B. M.",
+    "league": "SecondaCategoria · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/61575.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:44.087Z"
+  },
+  {
+    "teamId": 780411,
+    "name": "S. Pio X Rovigo",
+    "league": "SecondaCategoria · GironeH",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780411.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:50.001Z"
+  },
+  {
+    "teamId": 206181,
+    "name": "Sacra Famiglia",
+    "league": "SecondaCategoria · GironeI",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/206181.png?v=8",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:50.929Z"
+  },
+  {
+    "teamId": 932503,
+    "name": "Salese",
+    "league": "SecondaCategoria · GironeN",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/932503.png?v=4",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:55.757Z"
+  },
+  {
+    "teamId": 60084,
+    "name": "Salvarosa",
+    "league": "SecondaCategoria · GironeM",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/60084.png?v=17",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:54.702Z"
+  },
+  {
+    "teamId": 59327,
+    "name": "Salvatronda",
+    "league": "PrimaCategoria · GironeH",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/59327.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:42.145Z"
+  },
+  {
+    "teamId": 915950,
+    "name": "Sambonifacese",
+    "league": "PrimaCategoria · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/915950.png?v=10",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:33.258Z"
+  },
+  {
+    "teamId": 1057844,
+    "name": "Sampietrina",
+    "league": "SecondaCategoria · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1057844.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:45.178Z"
+  },
+  {
+    "teamId": 1324897,
+    "name": "San Bortolo Vicenza",
+    "league": "TerzaCategoria · GironeAVicenza",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1324897.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:15.033Z"
+  },
+  {
+    "teamId": 935938,
+    "name": "San Fidenzio Polverara",
+    "league": "SecondaCategoria · GironeL",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/935938.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:53.757Z"
+  },
+  {
+    "teamId": 934278,
+    "name": "San Floriano Calcio",
+    "league": "PrimaCategoria · GironeH",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/934278.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:42.145Z"
+  },
+  {
+    "teamId": 932133,
+    "name": "San Gaetano Calcio",
+    "league": "Promozione · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/932133.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:31.240Z"
+  },
+  {
+    "teamId": 61605,
+    "name": "San Giorgio In Bosco",
+    "league": "Promozione · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/61605.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:29.364Z"
+  },
+  {
+    "teamId": 74888,
+    "name": "San Giovanni Ilarione",
+    "league": "SecondaCategoria · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/74888.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:46.183Z"
+  },
+  {
+    "teamId": 1238498,
+    "name": "San Giuseppe Abano Terme",
+    "league": "SecondaCategoria · GironeI",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1238498.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:50.929Z"
+  },
+  {
+    "teamId": 780025,
+    "name": "San Lorenzo",
+    "league": "SecondaCategoria · GironeL",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780025.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:53.757Z"
+  },
+  {
+    "teamId": 1236817,
+    "name": "San Martino Calcio",
+    "league": "SecondaCategoria · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1236817.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:44.087Z"
+  },
+  {
+    "teamId": 1057834,
+    "name": "San Martino Saonara",
+    "league": "SecondaCategoria · GironeN",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1057834.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:55.757Z"
+  },
+  {
+    "teamId": 780419,
+    "name": "San Massimo",
+    "league": "SecondaCategoria · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780419.png?v=5",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:44.087Z"
+  },
+  {
+    "teamId": 1164653,
+    "name": "San Michele Candiana",
+    "league": "SecondaCategoria · GironeL",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1164653.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:53.757Z"
+  },
+  {
+    "teamId": 780923,
+    "name": "San Pietro Rosà",
+    "league": "Promozione · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780923.png?v=5",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:29.364Z"
+  },
+  {
+    "teamId": 920569,
+    "name": "San Stino",
+    "league": "PrimaCategoria · GironeG",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/920569.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:41.179Z"
+  },
+  {
+    "teamId": 66811,
+    "name": "San Tomio",
+    "league": "PrimaCategoria · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/66811.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:34.202Z"
+  },
+  {
+    "teamId": 45050,
+    "name": "San Vendemiano Calcio",
+    "league": "Promozione · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/45050.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:31.240Z"
+  },
+  {
+    "teamId": 780112,
+    "name": "San Vitale 1995",
+    "league": "SecondaCategoria · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780112.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T11:05:41.857Z",
+    "teamUrl": "https://www.tuttocampo.it/Veneto/SecondaCategoria/GironeD/Squadra/SanVitale1995/780112/Scheda"
+  },
+  {
+    "teamId": 1199590,
+    "name": "San Vitale 1995 Sq. B",
+    "league": "TerzaCategoria · GironeAVicenza",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1199590.png?v=2",
+    "teamUrl": "https://www.tuttocampo.it/Veneto/TerzaCategoria/GironeAVicenza/Squadra/SanVitale1995SqB/1199590/Scheda",
+    "updatedAt": "2026-09-30T11:18:04.273Z",
+    "region": "Veneto"
+  },
+  {
+    "teamId": 1098601,
+    "name": "San Zeno Verona 1919",
+    "league": "SecondaCategoria · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1098601.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:44.087Z"
+  },
+  {
+    "teamId": 930654,
+    "name": "SanMartinoColle",
+    "league": "PrimaCategoria · GironeH",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/930654.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:42.145Z"
+  },
+  {
+    "teamId": 780004,
+    "name": "Santangiolese Calcio",
+    "league": "PrimaCategoria · GironeF",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780004.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:40.067Z"
+  },
+  {
+    "teamId": 1005052,
+    "name": "Sarego Liona Academy",
+    "league": "SecondaCategoria · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1005052.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:46.183Z"
+  },
+  {
+    "teamId": 780416,
+    "name": "Saval Maddalena",
+    "league": "Promozione · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780416.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:28.378Z"
+  },
+  {
+    "teamId": 1121842,
+    "name": "Savio 1971",
+    "league": "PrimaCategoria · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1121842.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:35.270Z"
+  },
+  {
+    "teamId": 780924,
+    "name": "Scaligera",
+    "league": "Promozione · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780924.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:28.378Z"
+  },
+  {
+    "teamId": 48450,
+    "name": "Scardovari",
+    "league": "PrimaCategoria · GironeE",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/48450.png?v=4",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:39.109Z"
+  },
+  {
+    "teamId": 48500,
+    "name": "Schiara",
+    "league": "PrimaCategoria · GironeH",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/48500.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:42.145Z"
+  },
+  {
+    "teamId": 932387,
+    "name": "Sesto 2010",
+    "league": "SecondaCategoria · GironeJ",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/932387.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:51.977Z"
+  },
+  {
+    "teamId": 73509,
+    "name": "Solesinese",
+    "league": "Promozione · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/73509.png?v=4",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:30.299Z"
+  },
+  {
+    "teamId": 59818,
+    "name": "Somaglia",
+    "league": "SecondaCategoria · GironeJ",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/59818.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:51.977Z"
+  },
+  {
+    "teamId": 920533,
+    "name": "Sommacustoza 08",
+    "league": "SecondaCategoria · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/920533.png?v=17",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:44.087Z"
+  },
+  {
+    "teamId": 914018,
+    "name": "Sona 2026",
+    "league": "PrimaCategoria · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/914018.png?v=9",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:32.289Z"
+  },
+  {
+    "teamId": 917096,
+    "name": "Sospirese",
+    "league": "SecondaCategoria · GironeJ",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/917096.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:51.977Z"
+  },
+  {
+    "teamId": 50030,
+    "name": "Sovizzo Calcio",
+    "league": "PrimaCategoria · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/50030.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T14:39:06.186Z",
+    "teamUrl": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Squadra/SovizzoCalcio/50030/Scheda"
+  },
+  {
+    "teamId": 59305,
+    "name": "Spes Pojana",
+    "league": "PrimaCategoria · GironeE",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/59305.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:39.109Z"
+  },
+  {
+    "teamId": 67544,
+    "name": "Spinadesco",
+    "league": "SecondaCategoria · GironeJ",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/67544.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:51.977Z"
+  },
+  {
+    "teamId": 1199568,
+    "name": "Sporting 88",
+    "league": "SecondaCategoria · GironeM",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1199568.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:54.702Z"
+  },
+  {
+    "teamId": 935818,
+    "name": "Sporting Scorzè Peseggia",
+    "league": "PrimaCategoria · GironeF",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/935818.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:40.067Z"
+  },
+  {
+    "teamId": 63310,
+    "name": "Stella Azzurra S. Anna",
+    "league": "PrimaCategoria · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/63310.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:35.270Z"
+  },
+  {
+    "teamId": 915522,
+    "name": "Stra Riviera Del Brenta",
+    "league": "PrimaCategoria · GironeF",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/915522.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:40.067Z"
+  },
+  {
+    "teamId": 70868,
+    "name": "Summania",
+    "league": "PrimaCategoria · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/70868.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:34.202Z"
+  },
+  {
+    "teamId": 930109,
+    "name": "Tagliolese",
+    "league": "Promozione · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/930109.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:30.299Z"
+  },
+  {
+    "teamId": 780783,
+    "name": "Team S. Lucia Golosine",
+    "league": "Promozione · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780783.png?v=24",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:28.378Z"
+  },
+  {
+    "teamId": 67757,
+    "name": "Teglio Veneto",
+    "league": "PrimaCategoria · GironeG",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/67757.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:41.179Z"
+  },
+  {
+    "teamId": 1199570,
+    "name": "Thermal Teolo",
+    "league": "SecondaCategoria · GironeI",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1199570.png?v=5",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:50.929Z"
+  },
+  {
+    "teamId": 936029,
+    "name": "Thiene 1908",
+    "league": "Eccellenza · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/936029.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:27.347Z"
+  },
+  {
+    "teamId": 1137039,
+    "name": "Tombolo Calcio",
+    "league": "Promozione · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1137039.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:29.364Z"
+  },
+  {
+    "teamId": 79935,
+    "name": "Torrazzo Victor",
+    "league": "SecondaCategoria · GironeJ",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/79935.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:51.977Z"
+  },
+  {
+    "teamId": 59330,
+    "name": "Torre",
+    "league": "Promozione · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/59330.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:30.299Z"
+  },
+  {
+    "teamId": 1199580,
+    "name": "Torri 2023",
+    "league": "SecondaCategoria · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1199580.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:43.111Z"
+  },
+  {
+    "teamId": 932290,
+    "name": "Transvector",
+    "league": "SecondaCategoria · GironeG",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/932290.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:49.025Z"
+  },
+  {
+    "teamId": 780423,
+    "name": "Tregnago 1931",
+    "league": "PrimaCategoria · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780423.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:33.258Z"
+  },
+  {
+    "teamId": 53090,
+    "name": "Treporti",
+    "league": "PrimaCategoria · GironeG",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/53090.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:41.179Z"
+  },
+  {
+    "teamId": 1035169,
+    "name": "Treschè Conca",
+    "league": "SecondaCategoria · GironeF",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1035169.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:48.094Z"
+  },
+  {
+    "teamId": 1199584,
+    "name": "Trevenzuolo",
+    "league": "SecondaCategoria · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1199584.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:45.178Z"
+  },
+  {
+    "teamId": 60074,
+    "name": "Treville S. Andrea Calcio",
+    "league": "SecondaCategoria · GironeM",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/60074.png?v=11",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:54.702Z"
+  },
+  {
+    "teamId": 930807,
+    "name": "Turchese Calcio",
+    "league": "PrimaCategoria · GironeE",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/930807.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:39.109Z"
+  },
+  {
+    "teamId": 1098605,
+    "name": "Union Best Calcio",
+    "league": "SecondaCategoria · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1098605.png?v=10",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:45.178Z"
+  },
+  {
+    "teamId": 932136,
+    "name": "Union Campo San Martino",
+    "league": "PrimaCategoria · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/932136.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:35.270Z"
+  },
+  {
+    "teamId": 1098602,
+    "name": "Union Cologna Minerbe 1919",
+    "league": "Promozione · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1098602.png?v=7",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:28.378Z"
+  },
+  {
+    "teamId": 919034,
+    "name": "Union CPC",
+    "league": "PrimaCategoria · GironeH",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/919034.png?v=5",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:42.145Z"
+  },
+  {
+    "teamId": 780355,
+    "name": "Union Dese",
+    "league": "Promozione · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780355.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:29.364Z"
+  },
+  {
+    "teamId": 80350,
+    "name": "Union Ezzelina",
+    "league": "SecondaCategoria · GironeG",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/80350.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:49.025Z"
+  },
+  {
+    "teamId": 1057829,
+    "name": "Union LC",
+    "league": "SecondaCategoria · GironeG",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1057829.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:49.025Z"
+  },
+  {
+    "teamId": 1238515,
+    "name": "Union MC",
+    "league": "SecondaCategoria · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1238515.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:46.183Z"
+  },
+  {
+    "teamId": 917393,
+    "name": "Union Monte 2026",
+    "league": "Eccellenza · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/917393.png?v=9",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:27.347Z"
+  },
+  {
+    "teamId": 60733,
+    "name": "Union Olmo Creazzo",
+    "league": "PrimaCategoria · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/60733.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:34.202Z"
+  },
+  {
+    "teamId": 935568,
+    "name": "Union Pro 1928",
+    "league": "Eccellenza · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/935568.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:27.347Z"
+  },
+  {
+    "teamId": 1000675,
+    "name": "Union QdP",
+    "league": "PrimaCategoria · GironeH",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1000675.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:42.145Z"
+  },
+  {
+    "teamId": 780605,
+    "name": "Union Riese S.P.V.",
+    "league": "PrimaCategoria · GironeH",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780605.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:42.145Z"
+  },
+  {
+    "teamId": 937779,
+    "name": "Union River",
+    "league": "PrimaCategoria · GironeE",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/937779.png?v=13",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:39.109Z"
+  },
+  {
+    "teamId": 920700,
+    "name": "Union Silva San Vito",
+    "league": "SecondaCategoria · GironeF",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/920700.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:48.094Z"
+  },
+  {
+    "teamId": 1280179,
+    "name": "Union Spinea FC",
+    "league": "SecondaCategoria · GironeN",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1280179.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:55.757Z"
+  },
+  {
+    "teamId": 1034820,
+    "name": "Union Torri",
+    "league": "PrimaCategoria · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1034820.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:34.202Z"
+  },
+  {
+    "teamId": 780023,
+    "name": "Union Vis Lendinara",
+    "league": "Promozione · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780023.png?v=7",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:30.299Z"
+  },
+  {
+    "teamId": 72491,
+    "name": "Union Voltaroncaglia",
+    "league": "SecondaCategoria · GironeN",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/72491.png?v=4",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:55.757Z"
+  },
+  {
+    "teamId": 80467,
+    "name": "Unione A.C.V.",
+    "league": "PrimaCategoria · GironeF",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/80467.png?v=8",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:40.067Z"
+  },
+  {
+    "teamId": 935562,
+    "name": "Unione Cadoneghe 1957",
+    "league": "Promozione · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/935562.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:30.299Z"
+  },
+  {
+    "teamId": 1137037,
+    "name": "Unione Ragazzi Tavo",
+    "league": "SecondaCategoria · GironeM",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1137037.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:54.702Z"
+  },
+  {
+    "teamId": 915648,
+    "name": "United Borgoricco Campetra",
+    "league": "Eccellenza · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/915648.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:27.347Z"
+  },
+  {
+    "teamId": 1023348,
+    "name": "Usma Padova",
+    "league": "PrimaCategoria · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1023348.png?v=3",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:35.270Z"
+  },
+  {
+    "teamId": 63715,
+    "name": "Valdalpone",
+    "league": "PrimaCategoria · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/63715.png?v=7",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:33.258Z"
+  },
+  {
+    "teamId": 932119,
+    "name": "Valdastico Costa Barausse",
+    "league": "SecondaCategoria · GironeF",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/932119.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:48.094Z"
+  },
+  {
+    "teamId": 65290,
+    "name": "Valli",
+    "league": "TerzaCategoria · GironeAVicenza",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/65290.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:15.033Z"
+  },
+  {
+    "teamId": 1098590,
+    "name": "Valsugana Calcio",
+    "league": "SecondaCategoria · GironeM",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1098590.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:54.702Z"
+  },
+  {
+    "teamId": 58662,
+    "name": "Valtramigna Cazzano",
+    "league": "PrimaCategoria · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/58662.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:33.258Z"
+  },
+  {
+    "teamId": 920591,
+    "name": "Vedelago",
+    "league": "Promozione · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/920591.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:31.240Z"
+  },
+  {
+    "teamId": 1057124,
+    "name": "Venezia Nettuno Lido",
+    "league": "PrimaCategoria · GironeF",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1057124.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:40.067Z"
+  },
+  {
+    "teamId": 780927,
+    "name": "Vestenanova",
+    "league": "SecondaCategoria · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780927.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:46.183Z"
+  },
+  {
+    "teamId": 1078793,
+    "name": "Viatek San Paolo Ariston",
+    "league": "SecondaCategoria · GironeE",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1078793.png?v=5",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:47.164Z"
+  },
+  {
+    "teamId": 780778,
+    "name": "Vigasio",
+    "league": "Eccellenza · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780778.png?v=6",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:26.300Z"
+  },
+  {
+    "teamId": 913870,
+    "name": "Vigonza",
+    "league": "SecondaCategoria · GironeN",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/913870.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:55.757Z"
+  },
+  {
+    "teamId": 55630,
+    "name": "Vigor",
+    "league": "PrimaCategoria · GironeG",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/55630.png?v=4",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:41.179Z"
+  },
+  {
+    "teamId": 1078903,
+    "name": "Villa Estense 2003",
+    "league": "SecondaCategoria · GironeL",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1078903.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:53.757Z"
+  },
+  {
+    "teamId": 76343,
+    "name": "Villafranca Veronese",
+    "league": "Eccellenza · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/76343.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:26.300Z"
+  },
+  {
+    "teamId": 932545,
+    "name": "Villafranchese",
+    "league": "Eccellenza · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/932545.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:26.300Z"
+  },
+  {
+    "teamId": 56020,
+    "name": "Villanovese",
+    "league": "PrimaCategoria · GironeE",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/56020.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:39.109Z"
+  },
+  {
+    "teamId": 780366,
+    "name": "Virtus Abano",
+    "league": "SecondaCategoria · GironeI",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/780366.png?v=6",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:50.929Z"
+  },
+  {
+    "teamId": 1078797,
+    "name": "Virtus Bagnoli Arre",
+    "league": "PrimaCategoria · GironeE",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1078797.png?v=4",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:39.109Z"
+  },
+  {
+    "teamId": 932142,
+    "name": "Virtus Borgo Venezia",
+    "league": "PrimaCategoria · GironeB",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/932142.png?v=6",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:33.258Z"
+  },
+  {
+    "teamId": 14290,
+    "name": "Virtus Cornedo",
+    "league": "PrimaCategoria · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/14290.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:34.202Z"
+  },
+  {
+    "teamId": 74062,
+    "name": "Virtus Romano",
+    "league": "PrimaCategoria · GironeC",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/74062.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:34.202Z"
+  },
+  {
+    "teamId": 1098595,
+    "name": "Vis Frassinelle Fratta",
+    "league": "SecondaCategoria · GironeH",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1098595.png?v=5",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:50.001Z"
+  },
+  {
+    "teamId": 936465,
+    "name": "Vittorio Falmec S.M. Colle",
+    "league": "Promozione · GironeD",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/936465.png?v=2",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:31.240Z"
+  },
+  {
+    "teamId": 57550,
+    "name": "Zevio 1925",
+    "league": "Promozione · GironeA",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/57550.png?v=4",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:28.378Z"
+  },
+  {
+    "teamId": 1053592,
+    "name": "Zianigo",
+    "league": "PrimaCategoria · GironeF",
+    "logo": "https://b2-content.tuttocampo.it/Teams/Original/1053592.png?v=1",
+    "region": "Veneto",
+    "updatedAt": "2026-09-30T10:09:40.067Z"
+  }
+]
