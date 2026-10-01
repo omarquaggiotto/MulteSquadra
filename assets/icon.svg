@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+
+    <rect
+        width="128"
+        height="128"
+        rx="30"
+        fill="#2563eb"
+    />
+
+    <circle
+        cx="64"
+        cy="64"
+        r="37"
+        fill="none"
+        stroke="white"
+        stroke-width="7"
+    />
+
+    <path
+        d="M64 27
+           L75 44
+           L69 64
+           L59 64
+           L53 44
+           Z"
+        fill="white"
+    />
+
+    <path
+        d="M27 55
+           L47 51
+           L61 64
+           L53 81
+           L32 78
+           Z"
+        fill="white"
+    />
+
+    <path
+        d="M101 55
+           L81 51
+           L67 64
+           L75 81
+           L96 78
+           Z"
+        fill="white"
+    />
+
+    <circle
+        cx="64"
+        cy="64"
+        r="7"
+        fill="#2563eb"
+    />
+
+</svg>
