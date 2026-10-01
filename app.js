@@ -742,11 +742,35 @@ function optimizeTuttocampoLogoUrl(value) {
 }
 
 function applyTeamBranding() {
-    document.querySelectorAll("[data-team-logo]").forEach(image => { image.src = getTeamLogo(); image.alt = `Stemma ${state?.team || "squadra"}`; });
+    const logo = getTeamLogo();
+    const appName = state?.teamCustomization?.shortName || `Multe ${state?.team || "Squadra"}`;
+    document.title = appName;
+    document.querySelectorAll("[data-team-logo]").forEach(image => { image.src = logo; image.alt = `Stemma ${state?.team || "squadra"}`; });
+    for (const selector of ['link[rel="icon"]', 'link[rel="apple-touch-icon"]']) {
+        const icon = document.querySelector(selector);
+        if (icon) icon.href = logo;
+    }
+    const manifest = document.querySelector('link[rel="manifest"]');
+    if (manifest) {
+        const iconUrl = (() => { try { return new URL(logo, location.href).href; } catch { return new URL("assets/icon.svg", location.href).href; } })();
+        const dynamicManifest = {
+            name: appName,
+            short_name: appName.length > 20 ? state?.team || "Multe Squadra" : appName,
+            description: `Gestione multe, quote e pagamenti di ${state?.team || "squadra"}`,
+            start_url: "./index.html",
+            display: "standalone",
+            background_color: "#f4f6f9",
+            theme_color: state?.teamCustomization?.primary || "#111827",
+            orientation: "portrait",
+            lang: "it",
+            icons: [{ src: iconUrl, sizes: "any", purpose: "any maskable" }]
+        };
+        manifest.href = `data:application/manifest+json,${encodeURIComponent(JSON.stringify(dynamicManifest))}`;
+    }
     const teamLink = document.querySelector(".team-link");
     if (teamLink) teamLink.href = state?.teamCustomization?.teamLink || state?.seasonConfig?.teamProfile?.teamUrl || "#";
-    document.documentElement.style.setProperty("--team-logo-image", `url("${getTeamLogo().replace(/["\\]/g, "\\$&")}")`);
-    window.MatchCalendar?.setTeamLogo?.(getTeamLogo());
+    document.documentElement.style.setProperty("--team-logo-image", `url("${logo.replace(/["\\]/g, "\\$&")}")`);
+    window.MatchCalendar?.setTeamLogo?.(logo);
 }
 
 function prepareTeamLogo(file) {
