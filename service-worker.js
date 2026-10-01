@@ -1,4 +1,4 @@
-const CACHE_NAME = "multesquadra-v3-username-login";
+const CACHE_NAME = "multesquadra-v4-team-identity";
 const APP_SHELL = [
     "./",
     "./index.html",

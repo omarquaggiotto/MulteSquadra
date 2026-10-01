@@ -998,6 +998,24 @@ async function loadCloudState() {
     return false;
 }
 
+async function repairConfiguredTeamIdentity() {
+    if (!/^\d+$/.test(String(state?.team || ""))) return false;
+    const teamId=Number(state?.seasonConfig?.tuttocampoTeamId || state.team);
+    if (!teamId) return false;
+    const directory=await fetch("data/team-directory.json",{cache:"no-store"}).then(response=>response.ok?response.json():[]).catch(()=>[]);
+    const known=directory.find(team=>Number(team.teamId)===teamId);
+    if (!known?.name) return false;
+    const oldName=String(state.team),teamUrl=known.teamUrl||state.seasonConfig?.teamProfile?.teamUrl||"";
+    state.team=known.name;
+    state.teamLogo=known.logo||state.teamLogo;
+    state.seasonConfig={...state.seasonConfig,teamProfile:{...(state.seasonConfig?.teamProfile||{}),teamId,name:known.name,league:known.league||state.seasonConfig?.teamProfile?.league||"",logo:known.logo||state.teamLogo,teamUrl,calendarUrl:teamUrl?teamUrl.replace(/\/Scheda\/?$/i,"/Calendario"):state.seasonConfig?.teamProfile?.calendarUrl}};
+    state.teamCustomization={...state.teamCustomization,fullName:known.name,shortName:/^Multe\s+\d+$/i.test(String(state.teamCustomization?.shortName||""))?`Multe ${known.name}`:state.teamCustomization?.shortName};
+    saveLocalState();
+    if(isAdmin&&cloudReady)queueCloudSave();
+    console.info(`Nome squadra ripristinato: ${oldName} → ${known.name}`);
+    return true;
+}
+
 function subscribeToCloud() {
     if (!supabaseClient || !activeCloudTeamId || cloudChannel) return;
 
@@ -1034,6 +1052,7 @@ async function initializeCloud() {
     await ensureOnlineDailyBackup();
     const hasCloudState = await loadCloudState();
     cloudReady = hasCloudState !== null;
+    await repairConfiguredTeamIdentity();
 
     if (isAdmin && !hasCloudState) {
         queueCloudSave();
@@ -1050,6 +1069,7 @@ async function initializeCloud() {
             await refreshAccess();
             const hasData = await loadCloudState();
             cloudReady = hasData !== null;
+            await repairConfiguredTeamIdentity();
             if (isAdmin && !hasData) queueCloudSave();
             render();
         }, 0);
@@ -1060,6 +1080,7 @@ async function handleConnectionRestored() {
     if (supabaseClient) {
         const refreshed = await loadCloudState();
         cloudReady = refreshed !== null;
+        await repairConfiguredTeamIdentity();
         await refreshAccess();
     }
     render();

@@ -2293,7 +2293,7 @@ body.modal-open .global-fab {
 
     box-shadow:
         0 6px 14px rgba(37, 99, 235, 0.20);
-   
+
 }
 @media (max-width: 600px) {
 
@@ -3366,7 +3366,7 @@ body::after {
  content: "";
  position: fixed;
  inset: 100px 0 110px;
- background: var(--team-logo-image, url("assets/icon.svg")) center / min(62vw, 390px) min(62vw, 390px) no-repeat;
+ background: var(--team-logo-image, url("assets/icon.svg")) center / min(62vw, 390px) auto no-repeat;
  opacity: .055;
  pointer-events: none;
  z-index: 19;

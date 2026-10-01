@@ -12,7 +12,12 @@ async function loadProfile(teamId){
     if(LOCAL){const response=await fetch(`/__team-profile?teamId=${encodeURIComponent(teamId)}`,{cache:"no-store"});payload=await response.json();if(!response.ok)throw new Error(payload.error||"Squadra non trovata");}
     else{if(!supabaseClient||!activeAppTeamId)throw new Error("Attivazione non completata");const {data,error}=await supabaseClient.functions.invoke("import-tuttocampo-calendar",{body:{mode:"profile",teamId:Number(teamId),appTeamId:activeAppTeamId}});if(error)throw new Error(error.message||"Squadra non trovata");payload=data;}
     if(!payload.profile) throw new Error(payload.error||"Squadra non trovata");
-    stagedProfile=payload.profile; document.getElementById("teamCode").value=String(stagedProfile.teamId); document.getElementById("teamLogo").src=stagedProfile.logo; document.getElementById("teamName").textContent=stagedProfile.name; document.getElementById("teamLeague").textContent=stagedProfile.league; statusBox.textContent="Controlla nome e stemma prima di creare il profilo."; preview.classList.remove("hidden"); confirmButton.classList.remove("hidden");
+    stagedProfile=payload.profile;
+    if(/^\d+$/.test(String(stagedProfile.name||""))){
+      const directory=await fetch("data/team-directory.json",{cache:"no-store"}).then(response=>response.ok?response.json():[]).catch(()=>[]),known=directory.find(team=>Number(team.teamId)===Number(teamId));
+      if(known){const slug=String(known.teamUrl||"").match(/\/Squadra\/([^/]+)\//i)?.[1]||stagedProfile.slug;stagedProfile={...stagedProfile,name:known.name,league:known.league||stagedProfile.league,logo:known.logo||stagedProfile.logo,slug,teamUrl:known.teamUrl||stagedProfile.teamUrl};stagedProfile.calendarUrl=stagedProfile.teamUrl.replace(/\/Scheda\/?$/i,"/Calendario");}
+    }
+    document.getElementById("teamCode").value=String(stagedProfile.teamId); document.getElementById("teamLogo").src=stagedProfile.logo; document.getElementById("teamName").textContent=stagedProfile.name; document.getElementById("teamLeague").textContent=stagedProfile.league; statusBox.textContent="Controlla nome e stemma prima di creare il profilo."; preview.classList.remove("hidden"); confirmButton.classList.remove("hidden");
   }catch(error){statusBox.className="status error";statusBox.textContent=error instanceof Error?error.message:"Ricerca non riuscita";}
 }
 
