@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover"
+    >
+
+    <meta
+        name="theme-color"
+        content="#111827"
+    >
+
+    <title>Multe Squadra</title>
+
+    <script>
+        if (/^(?:localhost|127\.0\.0\.1|10\.\d+\.\d+\.\d+|192\.168\.\d+\.\d+|172\.(?:1[6-9]|2\d|3[01])\.\d+\.\d+)$/i.test(location.hostname) && !localStorage.getItem("multesquadra_preview_v1")) {
+            location.replace("setup.html");
+        }
+    </script>
+
+    <link
+        rel="stylesheet"
+        href="style.css?v=multario-assign-105"
+    >
+
+    <link
+        rel="manifest"
+        href="manifest.json"
+    >
+
+    <link
+        rel="icon"
+        href="assets/icon.svg"
+        type="image/svg+xml"
+    >
+
+    <link
+        rel="apple-touch-icon"
+        href="assets/icon.svg"
+    >
+<link rel="stylesheet" href="birthdays.css?v=season-manager-preview-69">
+</head>
+
+<body>
+
+    <div class="app">
+
+        <!-- ========================= -->
+        <!-- HEADER                     -->
+        <!-- ========================= -->
+
+        <header class="topbar">
+
+            <div>
+                <span class="eyebrow">
+                    GESTIONE SQUADRA
+                </span>
+
+                <h1 id="pageTitle">
+                    Home
+                </h1>
+            </div>
+
+            <div class="topbar-actions">
+                <span id="offlineIndicator" class="offline-indicator" hidden>
+                    Offline · sola lettura
+                </span>
+                <button id="authButton" class="auth-button" type="button">Accedi</button>
+                <a class="team-link" href="#" target="_blank" rel="noopener noreferrer" aria-label="Sito della squadra" title="Sito della squadra">
+                    <img src="assets/icon.svg" data-team-logo alt="" width="34" height="34">
+                </a>
+                <button
+                    id="themeButton"
+                    class="icon-button"
+                    type="button"
+                >
+                    ☀️
+                </button><button class="nav-button header-settings" data-page="settings" type="button" aria-label="Impostazioni" title="Impostazioni"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="m9 3-.6 2.4-2 .9L4 5.6 2 9l1.8 1.7v2.6L2 15l2 3.4 2.4-.7 2 .9L9 21h6l.6-2.4 2-.9 2.4.7 2-3.4-1.8-1.7v-2.6L22 9l-2-3.4-2.4.7-2-.9L15 3Z"/><circle cx="12" cy="12" r="3"/></svg></button>
+            </div>
+
+        </header>
+
+
+        <!-- ========================= -->
+        <!-- CONTENUTO                  -->
+        <!-- ========================= -->
+
+        <main
+            id="app"
+            class="content"
+        >
+        </main>
+
+
+        <!-- ========================= -->
+        <!-- NAVIGAZIONE                -->
+        <!-- ========================= -->
+
+        <nav class="bottom-navigation">
+
+    <button
+        class="nav-button active"
+        data-page="home"
+        type="button"
+    >
+        <span class="nav-icon">🏠</span>
+        <span class="nav-label">Home</span>
+    </button>
+
+
+    <button
+        class="nav-button"
+        data-page="fines"
+        type="button"
+    >
+        <span class="nav-icon">💸</span>
+        <span class="nav-label">Multe</span>
+    </button>
+
+
+    <div class="nav-add-slot"><button
+            id="globalAddFine"
+            class="global-fab"
+            type="button"
+            aria-label="Nuova multa"
+            title="Nuova multa"
+        >
+            <svg class="fab-plus-icon" viewBox="0 0 24 24" width="26" height="26" aria-hidden="true" focusable="false"><path d="M12 5v14M5 12h14" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg>
+        </button></div>
+<button
+        class="nav-button"
+        data-page="payments"
+        type="button"
+    >
+        <span class="nav-icon">💰</span>
+        <span class="nav-label">Pagamenti</span>
+    </button>
+
+
+    <button
+        class="nav-button"
+        data-page="rules"
+        type="button"
+    >
+        <span class="nav-icon">📋</span>
+        <span class="nav-label">Multario</span>
+    </button>
+
+
+    
+
+        </nav>
+
+        
+
+    </div>
+
+
+    <!-- ========================= -->
+    <!-- MODALI                     -->
+    <!-- ========================= -->
+
+    <div
+        id="modalRoot"
+        class="modal-root"
+    >
+    </div>
+
+
+    <!-- ========================= -->
+    <!-- NOTIFICHE                  -->
+    <!-- ========================= -->
+
+    <div
+        id="toast"
+        class="toast"
+    >
+    </div>
+
+
+    <!-- ========================= -->
+    <!-- IMPORT BACKUP              -->
+    <!-- ========================= -->
+
+    <input
+        id="importFile"
+        type="file"
+        accept="application/json"
+        hidden
+    >
+
+    <script src="runtime-config.js?v=1"></script>
+    <script src="vendor/html2canvas.min.js?v=1.4.1"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="standings-data.js?v=standings-preview-1"></script>
+    <script src="next-match.js?v=generic-calendar-1"></script>
+    <script src="birthdays.js?v=shared-player-photos-96"></script>
+    <script src="history.js?v=history-backups-1"></script>
+    <script src="app.js?v=generic-calendar-1"></script>
+    <link rel="stylesheet" href="customization-lab.css?v=standings-98">
+    <script src="customization-lab.js?v=6"></script>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+

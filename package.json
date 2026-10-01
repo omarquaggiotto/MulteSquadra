@@ -1,0 +1,16 @@
+{
+  "name": "multe-squadra",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node --use-system-ca scripts/local-team-config-server.mjs",
+    "check": "node --check app.js && node --check next-match.js && node --check setup.js && node --check scripts/local-team-config-server.mjs && node --check scripts/test-20-teams.mjs && node scripts/smoke-check.mjs",
+    "check:20-teams": "node scripts/test-20-teams.mjs",
+    "check:db": "supabase test db",
+    "serve": "node scripts/local-team-config-server.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
