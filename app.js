@@ -8,7 +8,7 @@ const STORAGE_KEY = LOCAL_CUSTOMIZATION_PREVIEW ? "multesquadra_preview_v1" : "m
 const THEME_STORAGE_KEY = "multesquadra_theme_v1";
 const AUTO_BACKUP_STORAGE_KEY = "multesquadra_auto_backup_v1";
 const ADMIN_USERNAME = "admin";
-const ADMIN_EMAIL = "admin@multesquadra.local";
+const usernameEmail = value => `${String(value || "").trim().toLowerCase()}@login.multesquadra.app`;
 const DEFAULT_TEAM_ID = 0;
 
 const RUNTIME_CONFIG = Object.freeze(window.__MULTE_CONFIG__ || {});
@@ -1082,7 +1082,7 @@ function openAuthModal() {
         "Accesso amministratore",
         `<div class="form">
                 <p class="muted">Accedi per modificare. La sessione resta memorizzata su questo dispositivo.</p>
-                <div class="field"><label>EMAIL</label><input id="authUsername" type="email" autocomplete="username" placeholder="responsabile@squadra.it"></div>
+                <div class="field"><label>NOME UTENTE</label><input id="authUsername" type="text" autocomplete="username" placeholder="Nome utente Admin"></div>
                 <div class="field"><label>PASSWORD</label><input id="authPassword" type="password" autocomplete="current-password" placeholder="Password"></div>
                 <div class="modal-actions">
                     <button class="btn" id="signInButton" type="button">Accedi</button>
@@ -1098,13 +1098,13 @@ function openAuthModal() {
     document.getElementById("signInButton").onclick = async () => {
         const { username, password } = getCredentials();
 
-        if (!username || !password || (!LOCAL_CUSTOMIZATION_PREVIEW && !/^\S+@\S+\.\S+$/.test(username))) {
+        if (!/^[a-z0-9._-]{3,32}$/.test(username) || !password) {
             showToast("Credenziali non valide.");
             return;
         }
 
         if (LOCAL_CUSTOMIZATION_PREVIEW) {
-            if (username !== ADMIN_USERNAME) { showToast("Credenziali non valide."); return; }
+            if (username !== (state.adminUsername || ADMIN_USERNAME)) { showToast("Credenziali non valide."); return; }
             const digest = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(password));
             const hash = [...new Uint8Array(digest)].map(byte => byte.toString(16).padStart(2,"0")).join("");
             if (!state.adminPasswordHash || hash !== state.adminPasswordHash) { showToast("Credenziali non valide."); return; }
@@ -1112,7 +1112,7 @@ function openAuthModal() {
         }
 
         const { error } = await supabaseClient.auth.signInWithPassword({
-            email: username,
+            email: usernameEmail(username),
             password
         });
 
@@ -4052,7 +4052,7 @@ function openChangeAdminPasswordModal() {
             state.adminPasswordHash = await makeHash(nextPassword);
             saveLocalState(); closeModal(); showToast("Password Admin aggiornata."); return;
         }
-        const { error: signInError } = await supabaseClient.auth.signInWithPassword({ email: ADMIN_EMAIL, password: currentPassword });
+        const { error: signInError } = await supabaseClient.auth.signInWithPassword({ email: authUser?.email, password: currentPassword });
         if (signInError) {
             button.disabled = false;
             button.textContent = "Aggiorna password";
