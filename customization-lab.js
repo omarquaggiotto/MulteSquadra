@@ -22,7 +22,7 @@
 
     function ensureCustomization() {
         state.teamCustomization = { ...defaults, ...(state.teamCustomization || {}) };
-        if (isGS && [["#8b1e2d", "#e8b44f"], ["#2563eb", "#1d4ed8"]].some(([primary, secondary]) => state.teamCustomization.primary === primary && state.teamCustomization.secondary === secondary)) {
+        if (!isGeneric && [["#8b1e2d", "#e8b44f"], ["#2563eb", "#1d4ed8"]].some(([primary, secondary]) => state.teamCustomization.primary === primary && state.teamCustomization.secondary === secondary)) {
             state.teamCustomization.primary = defaults.primary;
             state.teamCustomization.secondary = defaults.secondary;
             state.teamCustomization.accent = defaults.accent;
