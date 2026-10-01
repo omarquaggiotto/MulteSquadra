@@ -1,4 +1,4 @@
-const CACHE_NAME = "multesquadra-v8-access-flow";
+const CACHE_NAME = "multesquadra-v9-legacy-login";
 const APP_SHELL = [
     "./",
     "./index.html",

@@ -24,7 +24,7 @@
       <p class="muted" id="accessDescription">Usa il nome utente e la password scelti durante la registrazione.</p>
       <div class="access-switch" role="tablist" aria-label="Tipo di accesso"><button id="showLogin" class="active" type="button">Accedi</button><button id="showSignup" type="button">Crea nuova squadra</button></div>
       <form id="loginForm">
-        <label>Nome utente Admin<input id="username" type="text" autocomplete="username" minlength="3" maxlength="32" pattern="[A-Za-z0-9._-]+" required placeholder="es. sanvitale.admin"></label>
+        <label><span id="usernameLabel">Nome utente o email</span><input id="username" type="text" autocomplete="username" minlength="3" maxlength="120" required placeholder="Nome utente usato alla registrazione"></label>
         <label><span id="passwordLabel">Password Admin</span><input id="password" type="password" autocomplete="current-password" minlength="8" required placeholder="Almeno 8 caratteri"></label>
         <label id="passwordConfirmField" class="hidden">Ripeti password Admin<input id="passwordConfirm" type="password" autocomplete="new-password" minlength="8" placeholder="Ripeti la password"></label>
         <label id="activationCodeField" class="hidden">Codice di attivazione<input id="activationCode" autocomplete="one-time-code" placeholder="es. PROVA-SQUADRA-2026"></label>
@@ -113,6 +113,6 @@
   </main>
   <script src="runtime-config.js?v=1"></script>
   <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-  <script src="setup.js?v=calendar-url-repair-7"></script>
+  <script src="setup.js?v=legacy-login-9"></script>
 </body>
 </html>
