@@ -1,0 +1,680 @@
+{
+  "type": "league",
+  "competition": "Prima Categoria - Girone C",
+  "season": "2026/27",
+  "source": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Squadra/SovizzoCalcio/50030/Calendario",
+  "importedAt": "2026-09-30T14:05:27.2594464Z",
+  "teams": [
+    {
+      "id": 63322,
+      "name": "Poleo Aste",
+      "logo": "https://b2-content.tuttocampo.it/Teams/Original/63322.png?v=2"
+    },
+    {
+      "id": 66811,
+      "name": "San Tomio",
+      "logo": "https://b2-content.tuttocampo.it/Teams/Original/66811.png?v=2"
+    },
+    {
+      "id": 74062,
+      "name": "Virtus Romano",
+      "logo": "https://b2-content.tuttocampo.it/Teams/Original/74062.png?v=2"
+    },
+    {
+      "id": 1199586,
+      "name": "Alto Academy",
+      "logo": "https://b2-content.tuttocampo.it/Teams/Original/1199586.png?v=2"
+    },
+    {
+      "id": 932124,
+      "name": "Junior Monticello",
+      "logo": "https://b2-content.tuttocampo.it/Teams/Original/932124.png?v=2"
+    },
+    {
+      "id": 935564,
+      "name": "Nove Stefani Consulting",
+      "logo": "https://b2-content.tuttocampo.it/Teams/Original/935564.png?v=2"
+    },
+    {
+      "id": 918765,
+      "name": "Longare Castegnero",
+      "logo": "https://b2-content.tuttocampo.it/Teams/Original/918765.png?v=2"
+    },
+    {
+      "id": 60733,
+      "name": "Union Olmo Creazzo",
+      "logo": "https://b2-content.tuttocampo.it/Teams/Original/60733.png?v=2"
+    },
+    {
+      "id": 81045,
+      "name": "Isola Castelnovo",
+      "logo": "https://b2-content.tuttocampo.it/Teams/Original/81045.png?v=2"
+    },
+    {
+      "id": 70868,
+      "name": "Summania",
+      "logo": "https://b2-content.tuttocampo.it/Teams/Original/70868.png?v=2"
+    },
+    {
+      "id": 59285,
+      "name": "Monteviale Calcio",
+      "logo": "https://b2-content.tuttocampo.it/Teams/Original/59285.png?v=2"
+    },
+    {
+      "id": 75933,
+      "name": "Molina",
+      "logo": "https://b2-content.tuttocampo.it/Teams/Original/75933.png?v=2"
+    },
+    {
+      "id": 14290,
+      "name": "Virtus Cornedo",
+      "logo": "https://b2-content.tuttocampo.it/Teams/Original/14290.png?v=2"
+    },
+    {
+      "id": 50030,
+      "name": "Sovizzo Calcio",
+      "logo": "https://b2-content.tuttocampo.it/Teams/Original/50030.png?v=2"
+    },
+    {
+      "id": 1034820,
+      "name": "Union Torri",
+      "logo": "https://b2-content.tuttocampo.it/Teams/Original/1034820.png?v=2"
+    },
+    {
+      "id": 780072,
+      "name": "Maddalene",
+      "logo": "https://b2-content.tuttocampo.it/Teams/Original/780072.png?v=2"
+    }
+  ],
+  "matches": [
+    {
+      "round": 1,
+      "homeId": 50030,
+      "awayId": 70868,
+      "date": "2026-09-13",
+      "time": "15:30",
+      "place": "",
+      "result": "0-2",
+      "status": "played",
+      "url": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Partita/1.7/sovizzo-calcio-summania",
+      "key": "league|2026-09-13|50030|70868",
+      "competitionType": "league"
+    },
+    {
+      "round": 2,
+      "homeId": 59285,
+      "awayId": 50030,
+      "date": "2026-09-20",
+      "time": "15:30",
+      "place": "",
+      "result": "4-2",
+      "status": "played",
+      "url": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Partita/2.4/monteviale-calcio-sovizzo-calcio",
+      "key": "league|2026-09-20|59285|50030",
+      "competitionType": "league"
+    },
+    {
+      "round": 3,
+      "homeId": 50030,
+      "awayId": 74062,
+      "date": "2026-09-27",
+      "time": "15:30",
+      "place": "",
+      "result": "3-2",
+      "status": "played",
+      "url": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Partita/3.6/sovizzo-calcio-virtus-romano",
+      "key": "league|2026-09-27|50030|74062",
+      "competitionType": "league"
+    },
+    {
+      "round": 4,
+      "homeId": 63322,
+      "awayId": 50030,
+      "date": "2026-10-04",
+      "time": "15:30",
+      "place": "",
+      "result": "",
+      "status": "scheduled",
+      "url": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Partita/4.4/poleo-aste-sovizzo-calcio",
+      "key": "league|2026-10-04|63322|50030",
+      "competitionType": "league"
+    },
+    {
+      "round": 5,
+      "homeId": 50030,
+      "awayId": 60733,
+      "date": "2026-10-11",
+      "time": "15:30",
+      "place": "",
+      "result": "",
+      "status": "scheduled",
+      "url": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Partita/5.7/sovizzo-calcio-union-olmo-creazzo",
+      "key": "league|2026-10-11|50030|60733",
+      "competitionType": "league"
+    },
+    {
+      "round": 6,
+      "homeId": 50030,
+      "awayId": 14290,
+      "date": "2026-10-18",
+      "time": "15:30",
+      "place": "",
+      "result": "",
+      "status": "scheduled",
+      "url": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Partita/6.4/sovizzo-calcio-virtus-cornedo",
+      "key": "league|2026-10-18|50030|14290",
+      "competitionType": "league"
+    },
+    {
+      "round": 7,
+      "homeId": 1199586,
+      "awayId": 50030,
+      "date": "2026-10-25",
+      "time": "14:30",
+      "place": "",
+      "result": "",
+      "status": "scheduled",
+      "url": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Partita/7.2/alto-academy-sovizzo-calcio",
+      "key": "league|2026-10-25|1199586|50030",
+      "competitionType": "league"
+    },
+    {
+      "round": 8,
+      "homeId": 50030,
+      "awayId": 935564,
+      "date": "2026-11-01",
+      "time": "14:30",
+      "place": "",
+      "result": "",
+      "status": "scheduled",
+      "url": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Partita/8.5/sovizzo-calcio-nove-stefani-consulting",
+      "key": "league|2026-11-01|50030|935564",
+      "competitionType": "league"
+    },
+    {
+      "round": 9,
+      "homeId": 75933,
+      "awayId": 50030,
+      "date": "2026-11-08",
+      "time": "14:30",
+      "place": "",
+      "result": "",
+      "status": "scheduled",
+      "url": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Partita/9.6/molina-sovizzo-calcio",
+      "key": "league|2026-11-08|75933|50030",
+      "competitionType": "league"
+    },
+    {
+      "round": 10,
+      "homeId": 50030,
+      "awayId": 81045,
+      "date": "2026-11-15",
+      "time": "14:30",
+      "place": "",
+      "result": "",
+      "status": "scheduled",
+      "url": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Partita/10.5/sovizzo-calcio-isola-castelnovo",
+      "key": "league|2026-11-15|50030|81045",
+      "competitionType": "league"
+    },
+    {
+      "round": 11,
+      "homeId": 918765,
+      "awayId": 50030,
+      "date": "2026-11-22",
+      "time": "14:30",
+      "place": "",
+      "result": "",
+      "status": "scheduled",
+      "url": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Partita/11.4/longare-castegnero-sovizzo-calcio",
+      "key": "league|2026-11-22|918765|50030",
+      "competitionType": "league"
+    },
+    {
+      "round": 12,
+      "homeId": 50030,
+      "awayId": 780072,
+      "date": "2026-11-29",
+      "time": "14:30",
+      "place": "",
+      "result": "",
+      "status": "scheduled",
+      "url": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Partita/12.6/sovizzo-calcio-maddalene",
+      "key": "league|2026-11-29|50030|780072",
+      "competitionType": "league"
+    },
+    {
+      "round": 13,
+      "homeId": 932124,
+      "awayId": 50030,
+      "date": "2026-12-06",
+      "time": "14:30",
+      "place": "",
+      "result": "",
+      "status": "scheduled",
+      "url": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Partita/13.3/junior-monticello-sovizzo-calcio",
+      "key": "league|2026-12-06|932124|50030",
+      "competitionType": "league"
+    },
+    {
+      "round": 14,
+      "homeId": 50030,
+      "awayId": 1034820,
+      "date": "2026-12-13",
+      "time": "14:30",
+      "place": "",
+      "result": "",
+      "status": "scheduled",
+      "url": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Partita/14.6/sovizzo-calcio-union-torri",
+      "key": "league|2026-12-13|50030|1034820",
+      "competitionType": "league"
+    },
+    {
+      "round": 15,
+      "homeId": 66811,
+      "awayId": 50030,
+      "date": "2026-12-20",
+      "time": "14:30",
+      "place": "",
+      "result": "",
+      "status": "scheduled",
+      "url": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Partita/15.1/san-tomio-sovizzo-calcio",
+      "key": "league|2026-12-20|66811|50030",
+      "competitionType": "league"
+    },
+    {
+      "round": 16,
+      "homeId": 70868,
+      "awayId": 50030,
+      "date": "2027-01-10",
+      "time": "14:30",
+      "place": "",
+      "result": "",
+      "status": "scheduled",
+      "url": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Partita/16.7/summania-sovizzo-calcio",
+      "key": "league|2027-01-10|70868|50030",
+      "competitionType": "league"
+    },
+    {
+      "round": 17,
+      "homeId": 50030,
+      "awayId": 59285,
+      "date": "2027-01-17",
+      "time": "14:30",
+      "place": "",
+      "result": "",
+      "status": "scheduled",
+      "url": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Partita/17.4/sovizzo-calcio-monteviale-calcio",
+      "key": "league|2027-01-17|50030|59285",
+      "competitionType": "league"
+    },
+    {
+      "round": 18,
+      "homeId": 74062,
+      "awayId": 50030,
+      "date": "2027-01-24",
+      "time": "14:30",
+      "place": "",
+      "result": "",
+      "status": "scheduled",
+      "url": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Partita/18.6/virtus-romano-sovizzo-calcio",
+      "key": "league|2027-01-24|74062|50030",
+      "competitionType": "league"
+    },
+    {
+      "round": 19,
+      "homeId": 50030,
+      "awayId": 63322,
+      "date": "2027-01-31",
+      "time": "14:30",
+      "place": "",
+      "result": "",
+      "status": "scheduled",
+      "url": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Partita/19.4/sovizzo-calcio-poleo-aste",
+      "key": "league|2027-01-31|50030|63322",
+      "competitionType": "league"
+    },
+    {
+      "round": 20,
+      "homeId": 60733,
+      "awayId": 50030,
+      "date": "2027-02-07",
+      "time": "14:30",
+      "place": "",
+      "result": "",
+      "status": "scheduled",
+      "url": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Partita/20.7/union-olmo-creazzo-sovizzo-calcio",
+      "key": "league|2027-02-07|60733|50030",
+      "competitionType": "league"
+    },
+    {
+      "round": 21,
+      "homeId": 14290,
+      "awayId": 50030,
+      "date": "2027-02-14",
+      "time": "14:30",
+      "place": "",
+      "result": "",
+      "status": "scheduled",
+      "url": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Partita/21.4/virtus-cornedo-sovizzo-calcio",
+      "key": "league|2027-02-14|14290|50030",
+      "competitionType": "league"
+    },
+    {
+      "round": 22,
+      "homeId": 50030,
+      "awayId": 1199586,
+      "date": "2027-02-21",
+      "time": "14:30",
+      "place": "",
+      "result": "",
+      "status": "scheduled",
+      "url": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Partita/22.2/sovizzo-calcio-alto-academy",
+      "key": "league|2027-02-21|50030|1199586",
+      "competitionType": "league"
+    },
+    {
+      "round": 23,
+      "homeId": 935564,
+      "awayId": 50030,
+      "date": "2027-02-28",
+      "time": "14:30",
+      "place": "",
+      "result": "",
+      "status": "scheduled",
+      "url": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Partita/23.5/nove-stefani-consulting-sovizzo-calcio",
+      "key": "league|2027-02-28|935564|50030",
+      "competitionType": "league"
+    },
+    {
+      "round": 24,
+      "homeId": 50030,
+      "awayId": 75933,
+      "date": "2027-03-07",
+      "time": "14:30",
+      "place": "",
+      "result": "",
+      "status": "scheduled",
+      "url": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Partita/24.6/sovizzo-calcio-molina",
+      "key": "league|2027-03-07|50030|75933",
+      "competitionType": "league"
+    },
+    {
+      "round": 25,
+      "homeId": 81045,
+      "awayId": 50030,
+      "date": "2027-03-14",
+      "time": "14:30",
+      "place": "",
+      "result": "",
+      "status": "scheduled",
+      "url": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Partita/25.5/isola-castelnovo-sovizzo-calcio",
+      "key": "league|2027-03-14|81045|50030",
+      "competitionType": "league"
+    },
+    {
+      "round": 26,
+      "homeId": 50030,
+      "awayId": 918765,
+      "date": "2027-03-21",
+      "time": "14:30",
+      "place": "",
+      "result": "",
+      "status": "scheduled",
+      "url": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Partita/26.4/sovizzo-calcio-longare-castegnero",
+      "key": "league|2027-03-21|50030|918765",
+      "competitionType": "league"
+    },
+    {
+      "round": 27,
+      "homeId": 780072,
+      "awayId": 50030,
+      "date": "2027-04-04",
+      "time": "15:30",
+      "place": "",
+      "result": "",
+      "status": "scheduled",
+      "url": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Partita/27.6/maddalene-sovizzo-calcio",
+      "key": "league|2027-04-04|780072|50030",
+      "competitionType": "league"
+    },
+    {
+      "round": 28,
+      "homeId": 50030,
+      "awayId": 932124,
+      "date": "2027-04-11",
+      "time": "15:30",
+      "place": "",
+      "result": "",
+      "status": "scheduled",
+      "url": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Partita/28.3/sovizzo-calcio-junior-monticello",
+      "key": "league|2027-04-11|50030|932124",
+      "competitionType": "league"
+    },
+    {
+      "round": 29,
+      "homeId": 1034820,
+      "awayId": 50030,
+      "date": "2027-04-18",
+      "time": "15:30",
+      "place": "",
+      "result": "",
+      "status": "scheduled",
+      "url": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Partita/29.6/union-torri-sovizzo-calcio",
+      "key": "league|2027-04-18|1034820|50030",
+      "competitionType": "league"
+    },
+    {
+      "round": 30,
+      "homeId": 50030,
+      "awayId": 66811,
+      "date": "2027-04-25",
+      "time": "15:30",
+      "place": "",
+      "result": "",
+      "status": "scheduled",
+      "url": "https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeC/Partita/30.1/sovizzo-calcio-san-tomio",
+      "key": "league|2027-04-25|50030|66811",
+      "competitionType": "league"
+    }
+  ],
+  "venues": {},
+  "standings": {
+    "competition": "Prima Categoria - Girone C",
+    "updatedAt": "2026-09-30T14:05:27.2640682Z",
+    "rows": [
+      {
+        "position": 1,
+        "id": 59285,
+        "name": "Monteviale Calcio",
+        "logo": "https://b2-content.tuttocampo.it/Teams/Original/59285.png?v=2",
+        "points": 9,
+        "played": 3,
+        "won": 3,
+        "drawn": 0,
+        "lost": 0,
+        "goalDifference": 5
+      },
+      {
+        "position": 2,
+        "id": 66811,
+        "name": "San Tomio",
+        "logo": "https://b2-content.tuttocampo.it/Teams/Original/66811.png?v=2",
+        "points": 9,
+        "played": 3,
+        "won": 3,
+        "drawn": 0,
+        "lost": 0,
+        "goalDifference": 4
+      },
+      {
+        "position": 3,
+        "id": 932124,
+        "name": "Junior Monticello",
+        "logo": "https://b2-content.tuttocampo.it/Teams/Original/932124.png?v=2",
+        "points": 7,
+        "played": 3,
+        "won": 2,
+        "drawn": 1,
+        "lost": 0,
+        "goalDifference": 4
+      },
+      {
+        "position": 4,
+        "id": 63322,
+        "name": "Poleo Aste",
+        "logo": "https://b2-content.tuttocampo.it/Teams/Original/63322.png?v=2",
+        "points": 7,
+        "played": 3,
+        "won": 2,
+        "drawn": 1,
+        "lost": 0,
+        "goalDifference": 3
+      },
+      {
+        "position": 5,
+        "id": 70868,
+        "name": "Summania",
+        "logo": "https://b2-content.tuttocampo.it/Teams/Original/70868.png?v=2",
+        "points": 6,
+        "played": 3,
+        "won": 2,
+        "drawn": 0,
+        "lost": 1,
+        "goalDifference": 3
+      },
+      {
+        "position": 6,
+        "id": 14290,
+        "name": "Virtus Cornedo",
+        "logo": "https://b2-content.tuttocampo.it/Teams/Original/14290.png?v=2",
+        "points": 6,
+        "played": 3,
+        "won": 2,
+        "drawn": 0,
+        "lost": 1,
+        "goalDifference": 1
+      },
+      {
+        "position": 7,
+        "id": 935564,
+        "name": "Nove Stefani Consulting",
+        "logo": "https://b2-content.tuttocampo.it/Teams/Original/935564.png?v=2",
+        "points": 6,
+        "played": 3,
+        "won": 2,
+        "drawn": 0,
+        "lost": 1,
+        "goalDifference": 0
+      },
+      {
+        "position": 8,
+        "id": 780072,
+        "name": "Maddalene",
+        "logo": "https://b2-content.tuttocampo.it/Teams/Original/780072.png?v=2",
+        "points": 4,
+        "played": 3,
+        "won": 1,
+        "drawn": 1,
+        "lost": 1,
+        "goalDifference": 1
+      },
+      {
+        "position": 9,
+        "id": 1034820,
+        "name": "Union Torri",
+        "logo": "https://b2-content.tuttocampo.it/Teams/Original/1034820.png?v=2",
+        "points": 4,
+        "played": 3,
+        "won": 1,
+        "drawn": 1,
+        "lost": 1,
+        "goalDifference": 1
+      },
+      {
+        "position": 10,
+        "id": 74062,
+        "name": "Virtus Romano",
+        "logo": "https://b2-content.tuttocampo.it/Teams/Original/74062.png?v=2",
+        "points": 4,
+        "played": 3,
+        "won": 1,
+        "drawn": 1,
+        "lost": 1,
+        "goalDifference": 0
+      },
+      {
+        "position": 11,
+        "id": 50030,
+        "name": "Sovizzo Calcio",
+        "logo": "https://b2-content.tuttocampo.it/Teams/Original/50030.png?v=2",
+        "points": 3,
+        "played": 3,
+        "won": 1,
+        "drawn": 0,
+        "lost": 2,
+        "goalDifference": -3
+      },
+      {
+        "position": 12,
+        "id": 81045,
+        "name": "Isola Castelnovo",
+        "logo": "https://b2-content.tuttocampo.it/Teams/Original/81045.png?v=2",
+        "points": 2,
+        "played": 3,
+        "won": 0,
+        "drawn": 2,
+        "lost": 1,
+        "goalDifference": -2
+      },
+      {
+        "position": 13,
+        "id": 75933,
+        "name": "Molina",
+        "logo": "https://b2-content.tuttocampo.it/Teams/Original/75933.png?v=2",
+        "points": 1,
+        "played": 3,
+        "won": 0,
+        "drawn": 1,
+        "lost": 2,
+        "goalDifference": -3
+      },
+      {
+        "position": 14,
+        "id": 1199586,
+        "name": "Alto Academy",
+        "logo": "https://b2-content.tuttocampo.it/Teams/Original/1199586.png?v=2",
+        "points": 0,
+        "played": 3,
+        "won": 0,
+        "drawn": 0,
+        "lost": 3,
+        "goalDifference": -4
+      },
+      {
+        "position": 15,
+        "id": 60733,
+        "name": "Union Olmo Creazzo",
+        "logo": "https://b2-content.tuttocampo.it/Teams/Original/60733.png?v=2",
+        "points": 0,
+        "played": 3,
+        "won": 0,
+        "drawn": 0,
+        "lost": 3,
+        "goalDifference": -5
+      },
+      {
+        "position": 16,
+        "id": 918765,
+        "name": "Longare Castegnero",
+        "logo": "https://b2-content.tuttocampo.it/Teams/Original/918765.png?v=2",
+        "points": 0,
+        "played": 3,
+        "won": 0,
+        "drawn": 0,
+        "lost": 3,
+        "goalDifference": -5
+      }
+    ]
+  }
+}
