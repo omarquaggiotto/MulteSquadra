@@ -1,0 +1,20 @@
+name: Verifica connessione Tuttocampo
+on: workflow_dispatch
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Verifica risposta calendario pubblico
+        run: |
+          node --input-type=module - <<'JS'
+          const url='https://www.tuttocampo.it/Veneto/PrimaCategoria/GironeB/Squadra/AlteCeccato/61617/Calendario';
+          const response=await fetch(url);
+          const html=await response.text();
+          console.log(JSON.stringify({status:response.status,length:html.length,calendarPage:html.includes('var tckk'),title:html.match(/<title>(.*?)<\/title>/)?.[1]}));
+          if(!html.includes('var tckk'))process.exitCode=1;
+          JS
