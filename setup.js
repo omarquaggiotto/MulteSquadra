@@ -4,6 +4,12 @@ const show=panel=>[loginPanel,teamPanel,rosterPanel,configPanel,successPanel].fo
 const escapeHtml=value=>String(value||"").replace(/[&<>"']/g,char=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"})[char]);
 const normalizeUsername=value=>String(value||"").trim().toLowerCase();
 const usernameEmail=value=>`${normalizeUsername(value)}@login.multesquadra.app`;
+const directoryTeamUrl=team=>{
+  if(team?.teamUrl)return team.teamUrl;
+  const league=String(team?.league||"").split("·").map(value=>value.trim()).filter(Boolean);
+  const slug=String(team?.name||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").replace(/[^a-z0-9]+/gi,"");
+  return team?.region&&league.length>=2&&slug&&team?.teamId?`https://www.tuttocampo.it/${encodeURIComponent(team.region)}/${encodeURIComponent(league[0])}/${encodeURIComponent(league[1])}/Squadra/${slug}/${Number(team.teamId)}/Scheda`:"";
+};
 
 async function loadProfile(teamId){
   stagedProfile=null; preview.classList.add("hidden"); confirmButton.classList.add("hidden"); statusBox.className="status"; statusBox.textContent="Sto cercando la squadra e verificando lo stemma…";
@@ -15,7 +21,7 @@ async function loadProfile(teamId){
     stagedProfile=payload.profile;
     if(/^\d+$/.test(String(stagedProfile.name||""))){
       const directory=await fetch("data/team-directory.json",{cache:"no-store"}).then(response=>response.ok?response.json():[]).catch(()=>[]),known=directory.find(team=>Number(team.teamId)===Number(teamId));
-      if(known){const slug=String(known.teamUrl||"").match(/\/Squadra\/([^/]+)\//i)?.[1]||stagedProfile.slug;stagedProfile={...stagedProfile,name:known.name,league:known.league||stagedProfile.league,logo:known.logo||stagedProfile.logo,slug,teamUrl:known.teamUrl||stagedProfile.teamUrl};stagedProfile.calendarUrl=stagedProfile.teamUrl.replace(/\/Scheda\/?$/i,"/Calendario");}
+      if(known){const teamUrl=directoryTeamUrl(known)||stagedProfile.teamUrl,slug=String(teamUrl||"").match(/\/Squadra\/([^/]+)\//i)?.[1]||stagedProfile.slug;stagedProfile={...stagedProfile,name:known.name,league:known.league||stagedProfile.league,logo:known.logo||stagedProfile.logo,slug,teamUrl};stagedProfile.calendarUrl=teamUrl.replace(/\/Scheda\/?$/i,"/Calendario");}
     }
     document.getElementById("teamCode").value=String(stagedProfile.teamId); document.getElementById("teamLogo").src=stagedProfile.logo; document.getElementById("teamName").textContent=stagedProfile.name; document.getElementById("teamLeague").textContent=stagedProfile.league; statusBox.textContent="Controlla nome e stemma prima di creare il profilo."; preview.classList.remove("hidden"); confirmButton.classList.remove("hidden");
   }catch(error){statusBox.className="status error";statusBox.textContent=error instanceof Error?error.message:"Ricerca non riuscita";}

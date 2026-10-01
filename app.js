@@ -999,16 +999,18 @@ async function loadCloudState() {
 }
 
 async function repairConfiguredTeamIdentity() {
-    if (!/^\d+$/.test(String(state?.team || ""))) return false;
     const teamId=Number(state?.seasonConfig?.tuttocampoTeamId || state.team);
     if (!teamId) return false;
     const directory=await fetch("data/team-directory.json",{cache:"no-store"}).then(response=>response.ok?response.json():[]).catch(()=>[]);
     const known=directory.find(team=>Number(team.teamId)===teamId);
     if (!known?.name) return false;
-    const oldName=String(state.team),teamUrl=known.teamUrl||state.seasonConfig?.teamProfile?.teamUrl||"";
+    const leagueParts=String(known.league||"").split("·").map(value=>value.trim()).filter(Boolean),slug=String(known.name||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").replace(/[^a-z0-9]+/gi,""),generatedUrl=known.region&&leagueParts.length>=2&&slug?`https://www.tuttocampo.it/${encodeURIComponent(known.region)}/${encodeURIComponent(leagueParts[0])}/${encodeURIComponent(leagueParts[1])}/Squadra/${slug}/${teamId}/Scheda`:"",teamUrl=known.teamUrl||generatedUrl||state.seasonConfig?.teamProfile?.teamUrl||"",calendarUrl=teamUrl?teamUrl.replace(/\/Scheda\/?$/i,"/Calendario"):"";
+    const currentLeague=(state.seasonConfig?.calendarSources||[]).find(source=>source?.type==="league"),needsRepair=state.team!==known.name||state.teamLogo!==known.logo||state.seasonConfig?.teamProfile?.teamUrl!==teamUrl||currentLeague?.url!==calendarUrl;
+    if(!needsRepair)return false;
+    const oldName=String(state.team);
     state.team=known.name;
     state.teamLogo=known.logo||state.teamLogo;
-    state.seasonConfig={...state.seasonConfig,teamProfile:{...(state.seasonConfig?.teamProfile||{}),teamId,name:known.name,league:known.league||state.seasonConfig?.teamProfile?.league||"",logo:known.logo||state.teamLogo,teamUrl,calendarUrl:teamUrl?teamUrl.replace(/\/Scheda\/?$/i,"/Calendario"):state.seasonConfig?.teamProfile?.calendarUrl}};
+    state.seasonConfig={...state.seasonConfig,teamProfile:{...(state.seasonConfig?.teamProfile||{}),teamId,name:known.name,league:known.league||state.seasonConfig?.teamProfile?.league||"",logo:known.logo||state.teamLogo,teamUrl,calendarUrl:calendarUrl||state.seasonConfig?.teamProfile?.calendarUrl},calendarSources:(state.seasonConfig?.calendarSources||[]).map(source=>source?.type==="league"?{...source,url:calendarUrl||source.url,lastCheckedAt:""}:source)};
     state.teamCustomization={...state.teamCustomization,fullName:known.name,shortName:/^Multe\s+\d+$/i.test(String(state.teamCustomization?.shortName||""))?`Multe ${known.name}`:state.teamCustomization?.shortName};
     saveLocalState();
     if(isAdmin&&cloudReady)queueCloudSave();

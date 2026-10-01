@@ -1,4 +1,4 @@
-const CACHE_NAME = "multesquadra-v6-team-refresh";
+const CACHE_NAME = "multesquadra-v7-calendar-url-repair";
 const APP_SHELL = [
     "./",
     "./index.html",
