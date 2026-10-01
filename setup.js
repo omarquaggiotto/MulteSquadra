@@ -1,9 +1,13 @@
 const DEMO_ACTIVATION_CODE="PROVA-SQUADRA-2026",LOCAL=/^(?:localhost|127\.0\.0\.1|10\.\d+\.\d+\.\d+|192\.168\.\d+\.\d+|172\.(?:1[6-9]|2\d|3[01])\.\d+\.\d+)$/.test(location.hostname),runtime=window.__MULTE_CONFIG__||{},supabaseClient=!LOCAL&&runtime.supabaseUrl&&runtime.supabaseAnonKey&&window.supabase?.createClient?window.supabase.createClient(runtime.supabaseUrl,runtime.supabaseAnonKey,{auth:{persistSession:true,autoRefreshToken:true,detectSessionInUrl:true}}):null,loginPanel=document.getElementById("loginPanel"),teamPanel=document.getElementById("teamPanel"),rosterPanel=document.getElementById("rosterPanel"),configPanel=document.getElementById("configPanel"),successPanel=document.getElementById("successPanel"),statusBox=document.getElementById("status"),preview=document.getElementById("preview"),confirmButton=document.getElementById("confirmTeam");
 let stagedProfile=null,adminUsername="",adminPassword="",rosterMembers=[],selectedRoster=[],activeAppTeamId="";
+let accessMode="login";
 const show=panel=>[loginPanel,teamPanel,rosterPanel,configPanel,successPanel].forEach(item=>item.classList.toggle("hidden",item!==panel));
 const escapeHtml=value=>String(value||"").replace(/[&<>"']/g,char=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"})[char]);
 const normalizeUsername=value=>String(value||"").trim().toLowerCase();
 const usernameEmail=value=>`${normalizeUsername(value)}@login.multesquadra.app`;
+function setAccessMode(mode){accessMode=mode==="signup"?"signup":"login";const signup=accessMode==="signup";document.getElementById("showLogin").classList.toggle("active",!signup);document.getElementById("showSignup").classList.toggle("active",signup);document.getElementById("passwordConfirmField").classList.toggle("hidden",!signup);document.getElementById("activationCodeField").classList.toggle("hidden",!signup);document.getElementById("passwordConfirm").required=signup;document.getElementById("activationCode").required=signup;document.getElementById("password").autocomplete=signup?"new-password":"current-password";document.getElementById("passwordLabel").textContent=signup?"Crea password Admin":"Password Admin";document.getElementById("accessTitle").textContent=signup?"Crea una nuova squadra":"Accedi alla tua squadra";document.getElementById("accessDescription").textContent=signup?"Scegli le credenziali del responsabile e inserisci il codice di attivazione ricevuto.":"Usa il nome utente e la password scelti durante la registrazione.";document.getElementById("accessSubmit").textContent=signup?"Attiva e continua":"Accedi alla squadra";}
+document.getElementById("showLogin").onclick=()=>setAccessMode("login");
+document.getElementById("showSignup").onclick=()=>setAccessMode("signup");
 const directoryTeamUrl=team=>{
   if(team?.teamUrl)return team.teamUrl;
   const league=String(team?.league||"").split("·").map(value=>value.trim()).filter(Boolean);
@@ -44,17 +48,19 @@ document.getElementById("loginForm").addEventListener("submit",async event=>{
   adminPassword=document.getElementById("password").value;
   if(!/^[a-z0-9._-]{3,32}$/.test(adminUsername))return alert("Il nome utente deve avere da 3 a 32 caratteri e può contenere lettere, numeri, punto, trattino e trattino basso.");
   if(adminPassword.length<8)return alert("La password Admin deve contenere almeno 8 caratteri.");
-  if(adminPassword!==passwordConfirm)return alert("Le password non coincidono. Controllale e riprova.");
-  if(LOCAL){if(code!==DEMO_ACTIVATION_CODE)return alert("Codice di attivazione non valido per questa prova locale.");show(teamPanel);return;}
+  if(accessMode==="signup"&&adminPassword!==passwordConfirm)return alert("Le password non coincidono. Controllale e riprova.");
+  if(LOCAL){if(accessMode==="signup"&&code!==DEMO_ACTIVATION_CODE)return alert("Codice di attivazione non valido per questa prova locale.");show(teamPanel);return;}
   if(!supabaseClient)return alert("Servizio di attivazione non configurato.");
-  const button=event.currentTarget.querySelector("button");button.disabled=true;button.textContent="Attivazione…";
+  const button=document.getElementById("accessSubmit");button.disabled=true;button.textContent=accessMode==="signup"?"Attivazione…":"Accesso…";
   try{
     let user=null;
     const signed=await supabaseClient.auth.signInWithPassword({email,password:adminPassword});
     if(!signed.error){
       user=signed.data.user;
       if(user&&await recoverExistingTeam(user.id))return;
+      if(accessMode==="login")throw new Error("Questo account non è ancora associato a una squadra.");
     }else{
+      if(accessMode==="login")throw new Error("Nome utente o password non corretti.");
       const created=await supabaseClient.auth.signUp({email,password:adminPassword,options:{data:{username:adminUsername}}});
       if(created.error){
         if(/already|registered|invalid login/i.test(created.error.message||""))throw new Error("Nome utente già esistente: controlla la password oppure accedi dall’app.");
@@ -71,7 +77,7 @@ document.getElementById("loginForm").addEventListener("submit",async event=>{
     localStorage.setItem("multesquadra_active_team_v1",activeAppTeamId);
     show(teamPanel);
   }catch(error){alert(error.message||"Attivazione non riuscita");}
-  finally{button.disabled=false;button.textContent="Attiva e continua";}
+  finally{button.disabled=false;button.textContent=accessMode==="signup"?"Attiva e continua":"Accedi alla squadra";}
 });
 document.getElementById("teamSearchForm").addEventListener("submit",async event=>{
   event.preventDefault(); const query=document.getElementById("teamSearch").value.trim(),box=document.getElementById("searchResults"); box.innerHTML='<div class="empty-result">Ricerca nel catalogo…</div>';

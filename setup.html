@@ -9,7 +9,7 @@
   <meta name="apple-mobile-web-app-title" content="Multe Squadra">
   <meta name="theme-color" content="#0b1730">
   <title>Multe Squadra</title>
-  <link rel="stylesheet" href="setup.css?v=2">
+  <link rel="stylesheet" href="setup.css?v=access-flow-8">
 </head>
 <body>
   <main class="shell">
@@ -20,14 +20,15 @@
 
     <section class="panel" id="loginPanel">
       <div class="step">1</div>
-      <h2>Accedi alla tua squadra</h2>
-      <p class="muted">Inserisci le credenziali del responsabile e il codice di attivazione ricevuto.</p>
+      <h2 id="accessTitle">Accedi alla tua squadra</h2>
+      <p class="muted" id="accessDescription">Usa il nome utente e la password scelti durante la registrazione.</p>
+      <div class="access-switch" role="tablist" aria-label="Tipo di accesso"><button id="showLogin" class="active" type="button">Accedi</button><button id="showSignup" type="button">Crea nuova squadra</button></div>
       <form id="loginForm">
         <label>Nome utente Admin<input id="username" type="text" autocomplete="username" minlength="3" maxlength="32" pattern="[A-Za-z0-9._-]+" required placeholder="es. sanvitale.admin"></label>
-        <label>Crea password Admin<input id="password" type="password" autocomplete="new-password" minlength="8" required placeholder="Almeno 8 caratteri"></label>
-        <label>Ripeti password Admin<input id="passwordConfirm" type="password" autocomplete="new-password" minlength="8" required placeholder="Ripeti la password"></label>
-        <label>Codice di attivazione<input id="activationCode" autocomplete="one-time-code" required placeholder="es. PROVA-SQUADRA-2026"></label>
-        <button class="primary" type="submit">Attiva e continua</button>
+        <label><span id="passwordLabel">Password Admin</span><input id="password" type="password" autocomplete="current-password" minlength="8" required placeholder="Almeno 8 caratteri"></label>
+        <label id="passwordConfirmField" class="hidden">Ripeti password Admin<input id="passwordConfirm" type="password" autocomplete="new-password" minlength="8" placeholder="Ripeti la password"></label>
+        <label id="activationCodeField" class="hidden">Codice di attivazione<input id="activationCode" autocomplete="one-time-code" placeholder="es. PROVA-SQUADRA-2026"></label>
+        <button class="primary" id="accessSubmit" type="submit">Accedi alla squadra</button>
       </form>
     </section>
 
@@ -115,4 +116,3 @@
   <script src="setup.js?v=calendar-url-repair-7"></script>
 </body>
 </html>
-
